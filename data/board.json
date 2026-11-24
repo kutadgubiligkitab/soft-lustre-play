@@ -1,0 +1,55 @@
+{
+  "cols": 7,
+  "rows": 9,
+  "startOpenTiles": 24,
+  "unlocks": [
+    {
+      "level": 2,
+      "tiles": 4
+    },
+    {
+      "level": 4,
+      "tiles": 4
+    },
+    {
+      "level": 6,
+      "tiles": 4
+    },
+    {
+      "level": 9,
+      "tiles": 4
+    },
+    {
+      "level": 12,
+      "tiles": 4
+    },
+    {
+      "level": 15,
+      "tiles": 4
+    },
+    {
+      "level": 21,
+      "tiles": 4
+    },
+    {
+      "level": 28,
+      "tiles": 3
+    },
+    {
+      "level": 36,
+      "tiles": 3
+    },
+    {
+      "level": 45,
+      "tiles": 3
+    },
+    {
+      "level": 55,
+      "tiles": 1
+    },
+    {
+      "level": 70,
+      "tiles": 1
+    }
+  ]
+}

@@ -1,0 +1,933 @@
+{
+  "slotsByLevel": [
+    {
+      "minLevel": 1,
+      "slots": 2
+    },
+    {
+      "minLevel": 5,
+      "slots": 3
+    }
+  ],
+  "stylistUnlockLevel": 6,
+  "stylistStepsByLevel": [
+    {
+      "minLevel": 6,
+      "steps": 4
+    },
+    {
+      "minLevel": 40,
+      "steps": 5
+    }
+  ],
+  "stylistPayoutMultiplier": 1.6,
+  "stylistEnergyShare": 0.18,
+  "coinBase": 4.6,
+  "xpBase": 2.6,
+  "skipWaitMinutes": 30,
+  "freeSkipsPerDay": 1,
+  "bands": [
+    {
+      "minLevel": 1,
+      "maxLevel": 4,
+      "orders": [
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 2
+            }
+          ],
+          "boxChance": 0.05
+        },
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "blush",
+              "tier": 2
+            }
+          ],
+          "boxChance": 0.05
+        },
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 2
+            },
+            {
+              "chain": "blush",
+              "tier": 1
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "blush",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.08
+        }
+      ]
+    },
+    {
+      "minLevel": 5,
+      "maxLevel": 9,
+      "orders": [
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "blush",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.1
+        },
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 3
+            },
+            {
+              "chain": "blush",
+              "tier": 2
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "blush",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.1
+        },
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 2
+            },
+            {
+              "chain": "blush",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.06
+        }
+      ]
+    },
+    {
+      "minLevel": 10,
+      "maxLevel": 15,
+      "orders": [
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "blush",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "nails",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 3
+            },
+            {
+              "chain": "nails",
+              "tier": 2
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "blush",
+              "tier": 3
+            },
+            {
+              "chain": "nails",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.12
+        },
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 4
+            },
+            {
+              "chain": "blush",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "eyes",
+              "tier": 2
+            }
+          ],
+          "boxChance": 0.06
+        }
+      ]
+    },
+    {
+      "minLevel": 16,
+      "maxLevel": 23,
+      "orders": [
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "blush",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "nails",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "eyes",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "skincare",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 4
+            },
+            {
+              "chain": "blush",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "nails",
+              "tier": 3
+            },
+            {
+              "chain": "eyes",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "skincare",
+              "tier": 2
+            },
+            {
+              "chain": "lipstick",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "fragrance",
+              "tier": 2
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "eyes",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.12
+        }
+      ]
+    },
+    {
+      "minLevel": 24,
+      "maxLevel": 35,
+      "orders": [
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 6
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "blush",
+              "tier": 5
+            },
+            {
+              "chain": "nails",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "eyes",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "skincare",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "fragrance",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "hair",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 5
+            },
+            {
+              "chain": "eyes",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "skincare",
+              "tier": 3
+            },
+            {
+              "chain": "fragrance",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "nails",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.12
+        },
+        {
+          "items": [
+            {
+              "chain": "blush",
+              "tier": 6
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "hair",
+              "tier": 2
+            },
+            {
+              "chain": "eyes",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.06
+        }
+      ]
+    },
+    {
+      "minLevel": 36,
+      "maxLevel": 50,
+      "orders": [
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 5
+            },
+            {
+              "chain": "blush",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "nails",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "eyes",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "skincare",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "fragrance",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "hair",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "brushes",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 6
+            }
+          ],
+          "boxChance": 0.12
+        },
+        {
+          "items": [
+            {
+              "chain": "fragrance",
+              "tier": 4
+            },
+            {
+              "chain": "skincare",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "hair",
+              "tier": 4
+            },
+            {
+              "chain": "eyes",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "nails",
+              "tier": 5
+            },
+            {
+              "chain": "brushes",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "blush",
+              "tier": 6
+            },
+            {
+              "chain": "lipstick",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "eyes",
+              "tier": 6
+            }
+          ],
+          "boxChance": 0.12
+        }
+      ]
+    },
+    {
+      "minLevel": 51,
+      "maxLevel": 70,
+      "orders": [
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 6
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "blush",
+              "tier": 6
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "nails",
+              "tier": 6
+            },
+            {
+              "chain": "eyes",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "skincare",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "fragrance",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "hair",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "brushes",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 6
+            },
+            {
+              "chain": "blush",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "fragrance",
+              "tier": 5
+            },
+            {
+              "chain": "skincare",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "hair",
+              "tier": 5
+            },
+            {
+              "chain": "eyes",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.12
+        },
+        {
+          "items": [
+            {
+              "chain": "nails",
+              "tier": 6
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "brushes",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 7
+            }
+          ],
+          "boxChance": 0.14
+        },
+        {
+          "items": [
+            {
+              "chain": "eyes",
+              "tier": 6
+            }
+          ],
+          "boxChance": 0.08
+        }
+      ]
+    },
+    {
+      "minLevel": 71,
+      "maxLevel": 100,
+      "orders": [
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 7
+            }
+          ],
+          "boxChance": 0.14
+        },
+        {
+          "items": [
+            {
+              "chain": "blush",
+              "tier": 6
+            },
+            {
+              "chain": "nails",
+              "tier": 6
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "eyes",
+              "tier": 6
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "skincare",
+              "tier": 6
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "fragrance",
+              "tier": 6
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "hair",
+              "tier": 6
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "brushes",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 6
+            },
+            {
+              "chain": "eyes",
+              "tier": 6
+            },
+            {
+              "chain": "blush",
+              "tier": 6
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "fragrance",
+              "tier": 6
+            },
+            {
+              "chain": "skincare",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "hair",
+              "tier": 6
+            },
+            {
+              "chain": "brushes",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "nails",
+              "tier": 7
+            }
+          ],
+          "boxChance": 0.14
+        },
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 7
+            },
+            {
+              "chain": "fragrance",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "brushes",
+              "tier": 6
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "hair",
+              "tier": 6
+            },
+            {
+              "chain": "eyes",
+              "tier": 6
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "lipstick",
+              "tier": 8
+            }
+          ],
+          "boxChance": 0.16
+        }
+      ]
+    }
+  ]
+}
