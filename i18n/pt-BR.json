@@ -1,0 +1,441 @@
+{
+  "app": {
+    "title": "Soft Lustre",
+    "loading": "Abrindo o salão…"
+  },
+  "hud": {
+    "levelAbbr": "Nv",
+    "energyFull": "Cheia",
+    "energyEta": "+1 em {time}",
+    "energyFullIn": "Cheia em {time}",
+    "energyIsFull": "Energia cheia.",
+    "newGame": "Novo"
+  },
+  "settings": {
+    "title": "Ajustes",
+    "hintsBlurb": "Ao pausar, a dica aponta uma fusão.",
+    "hints": "Dicas",
+    "on": "Sim",
+    "off": "Não",
+    "done": "Pronto",
+    "language": "Idioma"
+  },
+  "info": {
+    "idle": "Toque numa necessaire ou num item.",
+    "resting": "Descansando",
+    "tierNext": "Nv. {tier}  →  {next}",
+    "tierMax": "Nv. {tier}  ·  Nível máx.",
+    "maxTier": "Nível máx.",
+    "usesLeft": "Nv. {level}  ·  {count, plural, one {{count} uso restante} other {{count} usos restantes}}",
+    "canMake": "Esta necessaire dá",
+    "closeHint": "Toque fora para fechar",
+    "sell": "Vender",
+    "bag": "Bolsa"
+  },
+  "toast": {
+    "boardFull": "Tabuleiro cheio. Una ou venda para abrir espaço.",
+    "resting": "Esta necessaire descansa.",
+    "storageSoon": "O baú abre um pouco mais tarde.",
+    "level": "Nível {level}",
+    "locked": "No nível marcado, mais casas abrem."
+  },
+  "modal": {
+    "sellTitle": "Vender isto?",
+    "sellBody": "{item} por {price} moedas?",
+    "sellConfirm": "Vender",
+    "welcomeTitle": "Soft Lustre",
+    "begin": "Começar",
+    "introCard": "O sininho acima da porta ainda toca a mesma nota suave. A Rosa te entrega as chaves com um sorriso. Abra a necessaire, combine seus pequenos tesouros e ajude cada cliente a sair se sentindo um pouco mais à vontade consigo.",
+    "energyTitle": "Energia",
+    "energyPlay": "Vamos jogar",
+    "restTitle": "Uma pausinha",
+    "restBody": "A energia volta devagar. Próximo ponto em {next}. Cheia de novo em {full}.",
+    "restOk": "OK",
+    "newTitle": "Começar um novo salão?",
+    "newBody": "Isso apagará seu tabuleiro salvo neste aparelho.",
+    "newConfirm": "Recomeçar"
+  },
+  "tutorial": {
+    "welcome": "Boas-vindas ao seu salão. Vamos fazê-lo brilhar de novo.",
+    "tapVanity": "Toque na necessaire para ver o que tem dentro.",
+    "mergeDrops": "Arraste um gloss sobre o outro para uni-los.",
+    "mergeAgain": "Lindo. Una dois desses para criar algo novo.",
+    "clientOrder": "A Lena está esperando. Ache o que ela pediu.",
+    "orderComplete": "Trabalho lindo. A Lena está radiante.",
+    "energyLesson": "A energia volta com o tempo. Descansar faz parte do trabalho.",
+    "goodbye": "Hora do chá. Volte logo, o salão espera por você."
+  },
+  "tips": {
+    "sell": "Não precisa agora? Venda um item por algumas moedas.",
+    "locked": "No nível marcado, mais casas abrem."
+  },
+  "intro": {
+    "short": "Boas-vindas ao seu salão. Vamos fazê-lo brilhar de novo."
+  },
+  "clients": {
+    "guest": "Cliente",
+    "fallbackThanks": "Gratidão.",
+    "lena": {
+      "name": "Lena",
+      "request": {
+        "0": "Posso experimentar {item} hoje?",
+        "1": "Tenho aula mais tarde. {item}, por favor?",
+        "2": "Algo novo pra mim. Que tal {item}?",
+        "3": "Sonhei com {item} no meu caderno de desenhos.",
+        "4": "Uma cor fresca de primavera, por favor.",
+        "5": "Minhas unhas querem diversão hoje.",
+        "6": "Um up nos meus cílios hoje."
+      },
+      "thanks": {
+        "0": "Amei. Muito obrigada.",
+        "1": "Isso vai direto pro meu caderno.",
+        "2": "Você sempre sabe do que eu gosto."
+      }
+    },
+    "amara": {
+      "name": "Amara",
+      "request": {
+        "0": "Meu mimo de fim de semana. {item}, por favor.",
+        "1": "Planejei a semana toda em volta de {item}.",
+        "2": "Só {item} hoje, mais nada. Obrigada.",
+        "3": "Confio em você. Acha {item} pra mim?",
+        "4": "Um brilho calmo e limpo pra uma reunião importante.",
+        "5": "Algo macio pros meus cachos, por favor.",
+        "6": "Posso pegar um pincel ou esponja macia? Talvez {item}?"
+      },
+      "thanks": {
+        "0": "Perfeito. Do jeito que eu esperava.",
+        "1": "Você deixa meus fins de semana especiais.",
+        "2": "Obrigada. Me sinto pronta pra tudo."
+      }
+    },
+    "hiro": {
+      "name": "Hiro",
+      "request": {
+        "0": "Bom dia. Tem {item}?",
+        "1": "Um pequeno favor hoje. {item}, por favor.",
+        "2": "Minhas mãos trabalham duro. {item} ajudaria.",
+        "3": "Algo com cheiro de jardim.",
+        "4": "Posso levar {item} antes de a barraca abrir?",
+        "5": "Minha filha disse pra eu experimentar {item}."
+      },
+      "thanks": {
+        "0": "Muito bom. Obrigado.",
+        "1": "Fresco como as flores da manhã.",
+        "2": "Vou contar pra feira inteira."
+      }
+    },
+    "sofia": {
+      "name": "Sofia",
+      "request": {
+        "0": "Tenho um programa à noite. {item}, querida?",
+        "1": "Um brilhinho, por favor. Talvez {item}?",
+        "2": "Pode achar {item} pra mim?",
+        "3": "Algo elegante pro teatro hoje à noite.",
+        "4": "Um tom quente de rosa, se tiver.",
+        "5": "Um perfume suave, como uma valsa antiga.",
+        "6": "Um up nos meus cílios hoje."
+      },
+      "thanks": {
+        "0": "Maravilhoso. Dá vontade de dançar.",
+        "1": "Você tem um toque tão delicado.",
+        "2": "Obrigada, querida. Simplesmente lindo."
+      }
+    },
+    "priya": {
+      "name": "Priya",
+      "request": {
+        "0": "Visita rápida antes dos fornos. {item}, por favor?",
+        "1": "Trouxe salgadinhos. Posso levar {item}?",
+        "2": "Um brilho novo pra um dia corrido.",
+        "3": "Já está tudo pronto? Estou com pressa. {item}?",
+        "4": "Algo bonito pra festa da minha irmã.",
+        "5": "Meu cabelo precisa de brilho hoje.",
+        "6": "Posso pegar um pincel ou esponja macia? Talvez {item}?"
+      },
+      "thanks": {
+        "0": "Obrigada. Leve um salgadinho.",
+        "1": "Rápido e lindo. Do que eu precisava.",
+        "2": "Agora encaro a correria da manhã."
+      }
+    },
+    "noor": {
+      "name": "Noor",
+      "request": {
+        "0": "Olá. Posso levar {item}, por favor?",
+        "1": "Algo suave hoje. Talvez {item}?",
+        "2": "Um perfume suave pro meu concerto.",
+        "3": "Minha pele está cansada. {item} ajudaria.",
+        "4": "Adoraria {item}, se tiver.",
+        "5": "Algo calmo antes do ensaio, por favor."
+      },
+      "thanks": {
+        "0": "Obrigada. Parece uma canção tranquila.",
+        "1": "Tão suave. Adorei mesmo.",
+        "2": "Hoje vou tocar algo alegre."
+      }
+    },
+    "mateo": {
+      "name": "Mateo",
+      "request": {
+        "0": "Oi. Como vai seu dia? {item}, por favor.",
+        "1": "Reunião de pais hoje à noite. Pode ser {item}?",
+        "2": "Algo pra manter a barba em ordem.",
+        "3": "Um cheiro fresco e limpo pra sala de aula.",
+        "4": "Tem {item} pra mim hoje?",
+        "5": "As crianças dizem que preciso de {item}."
+      },
+      "thanks": {
+        "0": "Ótimo trabalho. Muito obrigado.",
+        "1": "Pronto pra uma sala cheia de perguntas.",
+        "2": "Você melhorou meu dia inteiro."
+      }
+    },
+    "grace": {
+      "name": "Grace",
+      "request": {
+        "0": "Olá, querida. Tem {item}?",
+        "1": "Ensaio do coral hoje. {item}, por favor.",
+        "2": "Algo pra comemorar hoje.",
+        "3": "Acha {item} pra esta velha amiga?",
+        "4": "Uma cor linda que combine com meu lenço.",
+        "5": "Minhas unhas querem ficar no seu melhor."
+      },
+      "thanks": {
+        "0": "Deus te abençoe, querida. Está perfeito.",
+        "1": "Hoje vou cantar ainda melhor.",
+        "2": "Obrigada. Você ilumina esta rua."
+      }
+    }
+  },
+  "chain": {
+    "lipstick": "Cor dos lábios",
+    "blush": "Rubor em flor",
+    "nails": "Brilho de unhas",
+    "eyes": "Brilho dos olhos",
+    "brushes": "Arte dos pincéis",
+    "sponges": "Esponjas",
+    "lashes": "Cílios",
+    "skincare": "Orvalho da pele",
+    "fragrance": "Perfume Aura",
+    "hair": "Seda capilar",
+    "haircolor": "Cor do cabelo",
+    "oils": "Óleos corporais",
+    "stones": "Pedras de spa",
+    "towels": "Toalhas"
+  },
+  "item": {
+    "lipstick": {
+      "1": "Gota labial",
+      "2": "Lápis labial",
+      "3": "Batom cremoso",
+      "4": "Dupla pérola",
+      "5": "Batom cristal",
+      "6": "Batom coração",
+      "7": "Batom joia",
+      "8": "Batom coroa"
+    },
+    "blush": {
+      "1": "Pó de rubor",
+      "2": "Mini godê",
+      "3": "Pincel de blush",
+      "4": "Estojo redondo",
+      "5": "Paleta dupla aberta",
+      "6": "Estojo coração",
+      "7": "Cofre floral",
+      "8": "Cofre real de blush"
+    },
+    "nails": {
+      "1": "Lixa de unha",
+      "2": "Mini de amostra",
+      "3": "Tesoura de unha",
+      "4": "Frasco de glitter",
+      "5": "Cabine UV",
+      "6": "Kit de nail art",
+      "7": "Cesta de ferramentas",
+      "8": "Caixa de estúdio"
+    },
+    "eyes": {
+      "1": "Lasca de sombra",
+      "2": "Pote de sombra",
+      "3": "Lápis duplo",
+      "4": "Mini máscara",
+      "5": "Quarteto fechado",
+      "6": "Quarteto aberto",
+      "7": "Ateliê de cílios",
+      "8": "Paleta joia"
+    },
+    "brushes": {
+      "1": "Disco de algodão",
+      "2": "Mini esfumador",
+      "3": "Pincel de esfumar",
+      "4": "Pincel de pó",
+      "5": "Kit duplo",
+      "6": "Porta-esponjas",
+      "7": "Porta-pincel rosé",
+      "8": "Carrossel de pincéis"
+    },
+    "sponges": {
+      "1": "Miolo de esponja",
+      "2": "Mini cunha",
+      "3": "Esponja clássica",
+      "4": "Esponja cortada",
+      "5": "Par no suporte",
+      "6": "Kit leque",
+      "7": "Suporte brilho",
+      "8": "Árvore solar"
+    },
+    "lashes": {
+      "1": "Tufo de cílios",
+      "2": "Mini bandeja",
+      "3": "Aplicador",
+      "4": "Tira de cílios naturais",
+      "5": "Par flare",
+      "6": "Estojo de cílios",
+      "7": "Bancada de salão",
+      "8": "Lustre de cílios"
+    },
+    "skincare": {
+      "1": "Sachê de amostra",
+      "2": "Tubo de viagem",
+      "3": "Mini pote",
+      "4": "Frasco pump",
+      "5": "Pote pérola",
+      "6": "Sérum conta-gotas",
+      "7": "Kit spa",
+      "8": "Cofre spa"
+    },
+    "fragrance": {
+      "1": "Frasco de amostra",
+      "2": "Atomizador de viagem",
+      "3": "Spray de bolsa",
+      "4": "Frasco clássico",
+      "5": "Frasco floral",
+      "6": "Frasco coração",
+      "7": "Frasco de cristal",
+      "8": "Frasco orquídea"
+    },
+    "hair": {
+      "1": "Grampo",
+      "2": "Mini pente",
+      "3": "Presilha de laço",
+      "4": "Escova raquete",
+      "5": "Óleo capilar",
+      "6": "Fita de veludo",
+      "7": "Espelho de mão",
+      "8": "Pente leque"
+    },
+    "haircolor": {
+      "1": "Tigela de tintura",
+      "2": "Pincel e tigela",
+      "3": "Bisnaga",
+      "4": "Frasco de brilho",
+      "5": "Par de cores",
+      "6": "Misturador de salão",
+      "7": "Bar de cores",
+      "8": "Fonte de tintura"
+    },
+    "oils": {
+      "1": "Ampola",
+      "2": "Roll-on",
+      "3": "Frasco conta-gotas",
+      "4": "Frasco âmbar",
+      "5": "Óleo de massagem",
+      "6": "Dupla presente",
+      "7": "Cesta de óleos",
+      "8": "Roda de boticário"
+    },
+    "stones": {
+      "1": "Seixo",
+      "2": "Pedra quente",
+      "3": "Pedras gêmeas",
+      "4": "Pedra de mão",
+      "5": "Kit de pedras",
+      "6": "Totem zen"
+    },
+    "towels": {
+      "1": "Toalhinha",
+      "2": "Toalha de mão",
+      "3": "Par enrolado",
+      "4": "Kit de faixas",
+      "5": "Toalha de banho",
+      "6": "Pilha quentinha",
+      "7": "Cesto de linho",
+      "8": "Pirâmide de linho"
+    }
+  },
+  "gen": {
+    "vanity": {
+      "name": "Necessaire",
+      "1": "Bolsinha macia",
+      "2": "Necessaire matelassê",
+      "3": "Baú de viagem",
+      "4": "Carrinho de salão"
+    },
+    "polishrack": {
+      "name": "Estante de esmaltes",
+      "1": "Mini kit",
+      "2": "Cesta de esmaltes",
+      "3": "Carrinho de unhas",
+      "4": "Estação de manicure"
+    },
+    "brushbarrel": {
+      "name": "Barril de pincéis",
+      "1": "Copo",
+      "2": "Barril",
+      "3": "Carrinho com rodas",
+      "4": "Barril de ateliê"
+    },
+    "studio": {
+      "name": "Estúdio de olhos",
+      "1": "Bolsa de make",
+      "2": "Kit de maquiagem dos olhos",
+      "3": "Penteadeira de gavetas",
+      "4": "Estúdio iluminado"
+    },
+    "dewcabi": {
+      "name": "Armário de orvalho",
+      "1": "Bandeja de amostras",
+      "2": "Caixote spa",
+      "3": "Armário de orvalho",
+      "4": "Armário de ateliê"
+    },
+    "perfumeorgan": {
+      "name": "Órgão de perfumes",
+      "1": "Rack de amostras",
+      "2": "Organeta",
+      "3": "Órgão de perfumes",
+      "4": "Parede de fragrâncias"
+    },
+    "spasteamer": {
+      "name": "Vaporizador spa",
+      "1": "Caixa aquecedora",
+      "2": "Aquece-toalhas",
+      "3": "Vaporizador spa",
+      "4": "Console de rituais"
+    },
+    "haircart": {
+      "name": "Carrinho de cabelo",
+      "1": "Bolsinha",
+      "2": "Caixa de kit",
+      "3": "Carrinho capilar",
+      "4": "Estação de ateliê"
+    }
+  },
+  "list": {
+    "two": "{a} e {b}",
+    "and": "{items} e {last}"
+  },
+  "recipe": {
+    "howToMake": "Como fazer",
+    "ingredients": "Ingredientes",
+    "comesFrom": "Vem de",
+    "produces": "Produz",
+    "need": "{count}",
+    "showMe": "Mostrar",
+    "helpTitle": "Uma ajuda",
+    "helpBody": "Dois iguais se juntam e formam o próximo item. O estojo no início é a origem da primeira peça. Toque em i para ver mais. «Mostrar» aponta no tabuleiro.",
+    "notOnBoard": "Não está no tabuleiro agora.",
+    "unknown": "?"
+  }
+}

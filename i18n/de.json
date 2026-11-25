@@ -1,0 +1,441 @@
+{
+  "app": {
+    "title": "Soft Lustre",
+    "loading": "Der Salon öffnet …"
+  },
+  "hud": {
+    "levelAbbr": "Lv",
+    "energyFull": "Voll",
+    "energyEta": "+1 in {time}",
+    "energyFullIn": "Voll in {time}",
+    "energyIsFull": "Energie ist voll.",
+    "newGame": "Neu"
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "hintsBlurb": "Hinweise zeigen bei Pause eine Fusion.",
+    "hints": "Hinweise",
+    "on": "An",
+    "off": "Aus",
+    "done": "Fertig",
+    "language": "Sprache"
+  },
+  "info": {
+    "idle": "Tippe auf ein Beautycase oder Item.",
+    "resting": "Pausiert",
+    "tierNext": "Lv. {tier}  →  {next}",
+    "tierMax": "Lv. {tier}  ·  Höchststufe",
+    "maxTier": "Höchststufe",
+    "usesLeft": "Lv. {level}  ·  {count, plural, one {noch {count} Nutzung} other {noch {count} Nutzungen}}",
+    "canMake": "Dieses Case liefert",
+    "closeHint": "Außen tippen zum Schließen",
+    "sell": "Verkaufen",
+    "bag": "Tasche"
+  },
+  "toast": {
+    "boardFull": "Das Brett ist voll. Fusioniere oder verkaufe.",
+    "resting": "Dieses Case ruht gerade.",
+    "storageSoon": "Das Lager öffnet etwas später.",
+    "level": "Level {level}",
+    "locked": "Auf dem Ziellevel werden Felder frei."
+  },
+  "modal": {
+    "sellTitle": "Verkaufen?",
+    "sellBody": "{item} für {price} Münzen?",
+    "sellConfirm": "Verkaufen",
+    "welcomeTitle": "Soft Lustre",
+    "begin": "Los",
+    "introCard": "Die Glocke über der Tür klingt noch immer so sanft wie früher. Rosa überreicht dir lächelnd die Schlüssel. Öffne das Beautycase, kombiniere deine kleinen Schätze und hilf jedem Gast, sich ein bisschen mehr wie er selbst zu fühlen.",
+    "energyTitle": "Energie",
+    "energyPlay": "Los geht's",
+    "restTitle": "Kurze Pause",
+    "restBody": "Energie kommt langsam zurück. Nächster Punkt in {next}. Wieder voll in {full}.",
+    "restOk": "OK",
+    "newTitle": "Neuen Salon starten?",
+    "newBody": "Dein gespeichertes Brett auf diesem Gerät wird gelöscht.",
+    "newConfirm": "Neu beginnen"
+  },
+  "tutorial": {
+    "welcome": "Willkommen in deinem Salon. Lass ihn wieder strahlen.",
+    "tapVanity": "Tippe aufs Beautycase, um den Inhalt zu sehen.",
+    "mergeDrops": "Zieh einen Lippentropfen auf den anderen, um sie zu fusionieren.",
+    "mergeAgain": "Schön. Fusioniere zwei davon zu etwas Neuem.",
+    "clientOrder": "Lena wartet. Finde, worum sie gebeten hat.",
+    "orderComplete": "Schöne Arbeit. Lena freut sich so.",
+    "energyLesson": "Energie kehrt mit der Zeit zurück. Ruhe gehört dazu.",
+    "goodbye": "Zeit für Tee. Komm bald wieder, der Salon wartet."
+  },
+  "tips": {
+    "sell": "Gerade nicht nötig? Verkauf ein Item für Münzen.",
+    "locked": "Auf dem Ziellevel werden Felder frei."
+  },
+  "intro": {
+    "short": "Willkommen in deinem Salon. Lass ihn wieder strahlen."
+  },
+  "clients": {
+    "guest": "Gast",
+    "fallbackThanks": "Danke.",
+    "lena": {
+      "name": "Lena",
+      "request": {
+        "0": "Darf ich heute {item} probieren?",
+        "1": "Ich hab später Kurs. {item}, bitte?",
+        "2": "Mal was Neues. Vielleicht {item}?",
+        "3": "{item} sah ich in meinen Skizzenbuchträumen.",
+        "4": "Eine frische Frühlingsfarbe, bitte.",
+        "5": "Meine Nägel wollen heute Spaß.",
+        "6": "Heute einen Schwung für meine Wimpern."
+      },
+      "thanks": {
+        "0": "Ich liebe es. Vielen Dank.",
+        "1": "Das kommt direkt ins Skizzenbuch.",
+        "2": "Du weißt immer, was mir gefällt."
+      }
+    },
+    "amara": {
+      "name": "Amara",
+      "request": {
+        "0": "Mein Wochenend-Extra. {item}, bitte.",
+        "1": "Meine ganze Woche dreht sich um {item}.",
+        "2": "Heute nur {item}, nichts weiter. Danke.",
+        "3": "Ich vertraue dir. Findest du {item}?",
+        "4": "Ein ruhiger, klarer Glow für einen großen Termin.",
+        "5": "Etwas Weiches für meine Locken, bitte.",
+        "6": "Darf ich einen weichen Pinsel oder Schwamm leihen? {item}?"
+      },
+      "thanks": {
+        "0": "Perfekt. Genau wie erhofft.",
+        "1": "Du machst meine Wochenenden besonders.",
+        "2": "Danke. Ich bin zu allem bereit."
+      }
+    },
+    "hiro": {
+      "name": "Hiro",
+      "request": {
+        "0": "Guten Morgen. Haben Sie {item}?",
+        "1": "Eine kleine Bitte heute. {item}, bitte.",
+        "2": "Meine Hände arbeiten hart. {item} würde helfen.",
+        "3": "Etwas, das nach Garten duftet.",
+        "4": "Kann ich {item} haben, bevor mein Stand öffnet?",
+        "5": "Meine Tochter meint, ich soll {item} probieren."
+      },
+      "thanks": {
+        "0": "Sehr schön. Danke, mein Freund.",
+        "1": "Frisch wie meine Morgenblumen.",
+        "2": "Ich erzähl's dem ganzen Markt."
+      }
+    },
+    "sofia": {
+      "name": "Sofia",
+      "request": {
+        "0": "Ich gehe heute aus. {item}, Liebes?",
+        "1": "Etwas Glanz, bitte. Vielleicht {item}?",
+        "2": "Könntest du {item} für mich finden?",
+        "3": "Etwas Anmutiges für das Theater heute Abend.",
+        "4": "Ein warmer Rosaton, falls vorhanden.",
+        "5": "Ein sanfter Duft wie ein alter Walzer.",
+        "6": "Heute einen Schwung für meine Wimpern."
+      },
+      "thanks": {
+        "0": "Wunderbar. Mir ist nach Tanzen.",
+        "1": "Du hast so eine sanfte Hand.",
+        "2": "Danke, Liebes. Einfach herrlich."
+      }
+    },
+    "priya": {
+      "name": "Priya",
+      "request": {
+        "0": "Kurz vorbei vor den Öfen. {item}, bitte?",
+        "1": "Ich hab Gebäck mit. Darf ich {item} haben?",
+        "2": "Ein frischer Glow für einen vollen Tag.",
+        "3": "Ist {item} fertig? Ich hab es etwas eilig.",
+        "4": "Etwas Schönes für die Feier meiner Schwester.",
+        "5": "Mein Haar braucht heute Glanz.",
+        "6": "Darf ich einen weichen Pinsel oder Schwamm leihen? {item}?"
+      },
+      "thanks": {
+        "0": "Danke. Nimm bitte ein Gebäck.",
+        "1": "Schnell und schön. Genau richtig.",
+        "2": "Jetzt schaffe ich den Morgenansturm."
+      }
+    },
+    "noor": {
+      "name": "Noor",
+      "request": {
+        "0": "Hallo. Könnte ich {item} haben, bitte?",
+        "1": "Heute etwas Sanftes. Vielleicht {item}?",
+        "2": "Ein sanfter Duft für mein Konzert.",
+        "3": "Meine Haut wirkt müde. {item} würde helfen.",
+        "4": "Ich hätte gern {item}, falls vorhanden.",
+        "5": "Etwas Ruhiges vor der Probe, bitte."
+      },
+      "thanks": {
+        "0": "Danke. Wie ein leises Lied.",
+        "1": "So sanft. Ich liebe es.",
+        "2": "Heute spiele ich etwas Fröhliches."
+      }
+    },
+    "mateo": {
+      "name": "Mateo",
+      "request": {
+        "0": "Hi. Wie läuft dein Tag? {item}, bitte.",
+        "1": "Heute Elternabend. Könnte ich {item} haben?",
+        "2": "Etwas, das meinen Bart in Form hält.",
+        "3": "Ein frischer, sauberer Duft fürs Klassenzimmer.",
+        "4": "Hast du heute {item} für mich?",
+        "5": "Die Kinder sagen, ich brauche {item}."
+      },
+      "thanks": {
+        "0": "Tolle Arbeit. Vielen Dank.",
+        "1": "Bereit für einen Raum voller Fragen.",
+        "2": "Du hast meinen ganzen Tag verschönert."
+      }
+    },
+    "grace": {
+      "name": "Grace",
+      "request": {
+        "0": "Hallo, Liebes. Hast du {item}?",
+        "1": "Heute Chorprobe. {item}, bitte.",
+        "2": "Eine Kleinigkeit zum Feiern heute.",
+        "3": "Findest du {item} für diese alte Freundin?",
+        "4": "Eine schöne Farbe passend zum Schal.",
+        "5": "Meine Nägel wollen glänzen."
+      },
+      "thanks": {
+        "0": "Gott segne dich, Liebes. Perfekt.",
+        "1": "Heute singe ich extra gut.",
+        "2": "Danke. Du erhellst diese Straße."
+      }
+    }
+  },
+  "chain": {
+    "lipstick": "Lippenfarbe",
+    "blush": "Wangenblüte",
+    "nails": "Nagelglanz",
+    "eyes": "Augenglanz",
+    "brushes": "Pinselkunst",
+    "sponges": "Schwämme",
+    "lashes": "Wimpern",
+    "skincare": "Hauttau",
+    "fragrance": "Aura-Duft",
+    "hair": "Haarseide",
+    "haircolor": "Haarfarbe",
+    "oils": "Körperöle",
+    "stones": "Spa-Steine",
+    "towels": "Handtücher"
+  },
+  "item": {
+    "lipstick": {
+      "1": "Lippentropfen",
+      "2": "Lippenkonturenstift",
+      "3": "Cremelippenstift",
+      "4": "Perlenduo",
+      "5": "Kristalllippenstift",
+      "6": "Herzlippenstift",
+      "7": "Juwelenlippenstift",
+      "8": "Kronenlippenstift"
+    },
+    "blush": {
+      "1": "Rougestaub",
+      "2": "Mini-Pfännchen",
+      "3": "Rougepinsel",
+      "4": "Runde Puderdose",
+      "5": "Offene Duo-Palette",
+      "6": "Herz-Puderdose",
+      "7": "Blumen-Coffret",
+      "8": "Königliche Rougebox"
+    },
+    "nails": {
+      "1": "Nagelfeile",
+      "2": "Mini-Probe",
+      "3": "Nagelschere",
+      "4": "Glitzerfläschchen",
+      "5": "UV-Lampe",
+      "6": "Nail-Art-Set",
+      "7": "Werkzeugkorb",
+      "8": "Studiobox"
+    },
+    "eyes": {
+      "1": "Lidschattenspan",
+      "2": "Lidschattentopf",
+      "3": "Duo-Stift",
+      "4": "Mini-Mascara",
+      "5": "Geschlossenes Quad",
+      "6": "Offenes Quad",
+      "7": "Wimpernatelier",
+      "8": "Juwelenpalette"
+    },
+    "brushes": {
+      "1": "Wattepad",
+      "2": "Mini-Lidpinsel",
+      "3": "Verblendpinsel",
+      "4": "Puderpinsel",
+      "5": "Duo-Set",
+      "6": "Schwamm-Caddy",
+      "7": "Roségold-Caddy",
+      "8": "Pinselkarussell"
+    },
+    "sponges": {
+      "1": "Schwammkrümel",
+      "2": "Mini-Keil",
+      "3": "Klassischer Schwamm",
+      "4": "Halbierter Schwamm",
+      "5": "Paar auf Ständer",
+      "6": "Fächer-Set",
+      "7": "Glow-Halter",
+      "8": "Sonnenbaum"
+    },
+    "lashes": {
+      "1": "Wimpernbüschel",
+      "2": "Mini-Tablett",
+      "3": "Applikator",
+      "4": "Natürlicher Streifen",
+      "5": "Flare-Paar",
+      "6": "Wimpernetui",
+      "7": "Salonbar",
+      "8": "Wimpernlüster"
+    },
+    "skincare": {
+      "1": "Probenbeutel",
+      "2": "Reisetube",
+      "3": "Mini-Tiegel",
+      "4": "Pumpflasche",
+      "5": "Perltiegel",
+      "6": "Tropfer-Serum",
+      "7": "Spa-Set",
+      "8": "Spa-Coffret"
+    },
+    "fragrance": {
+      "1": "Probenfläschchen",
+      "2": "Reisezerstäuber",
+      "3": "Handtaschenspray",
+      "4": "Klassikflasche",
+      "5": "Blumenflakon",
+      "6": "Herzflasche",
+      "7": "Kristallkaraffe",
+      "8": "Orchideenflakon"
+    },
+    "hair": {
+      "1": "Haarnadel",
+      "2": "Mini-Kamm",
+      "3": "Schleifenspange",
+      "4": "Paddelbürste",
+      "5": "Haaröl",
+      "6": "Samtband",
+      "7": "Handspiegel",
+      "8": "Fächerkamm"
+    },
+    "haircolor": {
+      "1": "Färbeschale",
+      "2": "Pinsel & Schale",
+      "3": "Tube",
+      "4": "Glanzflasche",
+      "5": "Farbpaar",
+      "6": "Salon-Mixer",
+      "7": "Farbbar",
+      "8": "Farbbrunnen"
+    },
+    "oils": {
+      "1": "Ampulle",
+      "2": "Roller",
+      "3": "Tropfflasche",
+      "4": "Bernsteinflasche",
+      "5": "Massageöl",
+      "6": "Geschenk-Duo",
+      "7": "Öl-Caddy",
+      "8": "Apothekerrad"
+    },
+    "stones": {
+      "1": "Kiesel",
+      "2": "Warmer Stein",
+      "3": "Steinpaar",
+      "4": "Handschmeichler",
+      "5": "Steinset",
+      "6": "Zen-Steinturm"
+    },
+    "towels": {
+      "1": "Waschlappen",
+      "2": "Handtuch",
+      "3": "Gerolltes Paar",
+      "4": "Stirnband-Set",
+      "5": "Badetuch",
+      "6": "Warmer Stapel",
+      "7": "Leinenkorb",
+      "8": "Leinenpyramide"
+    }
+  },
+  "gen": {
+    "vanity": {
+      "name": "Beautycase",
+      "1": "Weiches Täschchen",
+      "2": "Gesteppter Koffer",
+      "3": "Reisekoffer",
+      "4": "Salonwagen"
+    },
+    "polishrack": {
+      "name": "Lackregal",
+      "1": "Mini-Set",
+      "2": "Lack-Caddy",
+      "3": "Nagelwagen",
+      "4": "Maniküre-Station"
+    },
+    "brushbarrel": {
+      "name": "Pinselfass",
+      "1": "Becher",
+      "2": "Fass",
+      "3": "Rollcaddy",
+      "4": "Atelier-Fass"
+    },
+    "studio": {
+      "name": "Augenstudio",
+      "1": "Schminktäschchen",
+      "2": "Augen-Kitbox",
+      "3": "Schminktisch",
+      "4": "Beleuchtetes Studio"
+    },
+    "dewcabi": {
+      "name": "Tauschrank",
+      "1": "Probentablett",
+      "2": "Spa-Kiste",
+      "3": "Tauschrank",
+      "4": "Atelier-Schrank"
+    },
+    "perfumeorgan": {
+      "name": "Parfümorgel",
+      "1": "Probenständer",
+      "2": "Mini-Orgel",
+      "3": "Parfümorgel",
+      "4": "Duftwand"
+    },
+    "spasteamer": {
+      "name": "Spa-Bedampfer",
+      "1": "Wärmebox",
+      "2": "Handtuchwärmer",
+      "3": "Spa-Bedampfer",
+      "4": "Ritualkonsole"
+    },
+    "haircart": {
+      "name": "Haar-Atelierwagen",
+      "1": "Täschchen",
+      "2": "Kitbox",
+      "3": "Haarwagen",
+      "4": "Atelier-Station"
+    }
+  },
+  "list": {
+    "two": "{a} und {b}",
+    "and": "{items} und {last}"
+  },
+  "recipe": {
+    "howToMake": "Herstellung",
+    "ingredients": "Zutaten",
+    "comesFrom": "Herkunft",
+    "produces": "Erzeugt",
+    "need": "{count}",
+    "showMe": "Zeigen",
+    "helpTitle": "Kurze Hilfe",
+    "helpBody": "Zwei gleiche Teile werden zum nächsten Gegenstand. Das Etui am Anfang ist die Quelle des ersten Stücks. Tippe auf i für mehr. „Zeigen“ markiert es auf dem Spielfeld.",
+    "notOnBoard": "Gerade nicht auf dem Feld.",
+    "unknown": "?"
+  }
+}

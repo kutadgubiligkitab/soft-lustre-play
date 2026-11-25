@@ -1,0 +1,441 @@
+{
+  "app": {
+    "title": "Soft Lustre",
+    "loading": "Salon açılıyor…"
+  },
+  "hud": {
+    "levelAbbr": "Sv",
+    "energyFull": "Dolu",
+    "energyEta": "+1: {time}",
+    "energyFullIn": "Dolmasına {time}",
+    "energyIsFull": "Enerji dolu.",
+    "newGame": "Yeni"
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "hintsBlurb": "Duraksayınca ipucu bir birleşmeyi gösterir.",
+    "hints": "İpuçları",
+    "on": "Açık",
+    "off": "Kapalı",
+    "done": "Tamam",
+    "language": "Dil"
+  },
+  "info": {
+    "idle": "Bir makyaj çantasına ya da eşyaya dokun.",
+    "resting": "Dinleniyor",
+    "tierNext": "Sv. {tier}  →  {next}",
+    "tierMax": "Sv. {tier}  ·  En üst",
+    "maxTier": "En üst seviye",
+    "usesLeft": "Sv. {level}  ·  {count, plural, one {{count} hak kaldı} other {{count} hak kaldı}}",
+    "canMake": "Bu çanta şunları verir",
+    "closeHint": "Kapatmak için dışarı dokun",
+    "sell": "Sat",
+    "bag": "Çanta"
+  },
+  "toast": {
+    "boardFull": "Tahta dolu. Yer açmak için birleştir ya da sat.",
+    "resting": "Bu çanta dinleniyor.",
+    "storageSoon": "Depo biraz sonra açılır.",
+    "level": "Seviye {level}",
+    "locked": "İşaretli seviyede yeni kareler açılır."
+  },
+  "modal": {
+    "sellTitle": "Satılsın mı?",
+    "sellBody": "{item} için {price} jeton?",
+    "sellConfirm": "Sat",
+    "welcomeTitle": "Soft Lustre",
+    "begin": "Başla",
+    "introCard": "Kapının üstündeki zil hâlâ aynı yumuşak sesle çalıyor. Rosa anahtarları gülümseyerek sana uzatıyor. Makyaj çantasını aç, küçük hazinelerini birleştir ve her misafirin kendini biraz daha kendisi gibi hissederek ayrılmasına yardım et.",
+    "energyTitle": "Enerji",
+    "energyPlay": "Oynayalım",
+    "restTitle": "Küçük bir mola",
+    "restBody": "Enerji yavaş yavaş geri gelir. Sıradaki puan {next} sonra. Tamamı {full} sonra.",
+    "restOk": "Tamam",
+    "newTitle": "Yeni salon kurulsun mu?",
+    "newBody": "Bu cihazdaki kayıtlı tahta silinecek.",
+    "newConfirm": "Baştan başla"
+  },
+  "tutorial": {
+    "welcome": "Salonuna hoş geldin. Hadi yeniden parlatalım.",
+    "tapVanity": "İçinde ne var görmek için çantaya dokun.",
+    "mergeDrops": "Birleştirmek için bir dudak damlasını diğerine sürükle.",
+    "mergeAgain": "Güzel. Yeni bir şey için bunlardan ikisini birleştir.",
+    "clientOrder": "Lena bekliyor. İstediğini bul.",
+    "orderComplete": "Harika iş. Lena çok mutlu.",
+    "energyLesson": "Enerji zamanla geri gelir. Dinlenmek işin parçası.",
+    "goodbye": "Çay vakti. Yakında dön, salon seni bekler."
+  },
+  "tips": {
+    "sell": "Şimdilik gerekmiyor mu? Birkaç jetona sat.",
+    "locked": "İşaretli seviyede yeni kareler açılır."
+  },
+  "intro": {
+    "short": "Salonuna hoş geldin. Hadi yeniden parlatalım."
+  },
+  "clients": {
+    "guest": "Misafir",
+    "fallbackThanks": "Teşekkürler.",
+    "lena": {
+      "name": "Lena",
+      "request": {
+        "0": "Bugün {item} deneyebilir miyim?",
+        "1": "Birazdan dersim var. {item}, lütfen?",
+        "2": "Bana yeni bir şey lazım. {item} olur mu?",
+        "3": "Rüyamda {item} gördüm, çizim defterimde.",
+        "4": "Bahar için taze bir renk lütfen.",
+        "5": "Tırnaklarım bugün biraz eğlence istiyor.",
+        "6": "Bugün kirpiklerime biraz kıvrım istiyorum."
+      },
+      "thanks": {
+        "0": "Bayıldım. Çok teşekkürler.",
+        "1": "Bu hemen defterime girecek.",
+        "2": "Neyi sevdiğimi hep bilirsin."
+      }
+    },
+    "amara": {
+      "name": "Amara",
+      "request": {
+        "0": "Hafta sonu şımarıklığım. {item}, lütfen.",
+        "1": "Bütün haftamı {item} için planladım.",
+        "2": "Bugün sadece {item}, başka bir şey yok. Sağ ol.",
+        "3": "Sana güveniyorum. {item} bulur musun?",
+        "4": "Önemli toplantı için sakin, temiz bir parlaklık.",
+        "5": "Bukleler için yumuşacık bir şey lütfen.",
+        "6": "Yumuşak fırça ya da sünger alabilir miyim? {item} belki?"
+      },
+      "thanks": {
+        "0": "Mükemmel. Tam umduğum gibi.",
+        "1": "Hafta sonlarımı özel yapıyorsun.",
+        "2": "Sağ ol. Her şeye hazırım."
+      }
+    },
+    "hiro": {
+      "name": "Hiro",
+      "request": {
+        "0": "Günaydın. {item} var mı?",
+        "1": "Bugün küçük bir ricam var. {item}, lütfen.",
+        "2": "Ellerim çok çalışıyor. {item} iyi gelir.",
+        "3": "Bahçe gibi kokan bir şey.",
+        "4": "Tezgâh açılmadan {item} alabilir miyim?",
+        "5": "Kızım {item} denemem gerektiğini söyledi."
+      },
+      "thanks": {
+        "0": "Çok güzel. Sağ ol dostum.",
+        "1": "Sabah çiçeklerim kadar taze.",
+        "2": "Pazardaki herkese anlatacağım."
+      }
+    },
+    "sofia": {
+      "name": "Sofia",
+      "request": {
+        "0": "Bu akşam dışarıdayım. {item}, canım?",
+        "1": "Biraz ışıltı lütfen. {item} belki?",
+        "2": "Bana {item} bulabilir misin?",
+        "3": "Bu akşam tiyatro için zarif bir şey.",
+        "4": "Sıcak bir gül rengi, varsa.",
+        "5": "Eski bir vals gibi hafif bir koku.",
+        "6": "Bugün kirpiklerime biraz kıvrım istiyorum."
+      },
+      "thanks": {
+        "0": "Harika. Dans etmek istiyorum.",
+        "1": "Ne nazik bir elin var.",
+        "2": "Sağ ol canım. Çok güzel."
+      }
+    },
+    "priya": {
+      "name": "Priya",
+      "request": {
+        "0": "Fırınlardan önce kısa bir uğrayış. {item}, lütfen?",
+        "1": "Poğaça getirdim. {item} alabilir miyim?",
+        "2": "Yoğun bir gün için taze bir parlaklık.",
+        "3": "{item} hazır mı? Biraz acelem var.",
+        "4": "Kız kardeşimin partisi için güzel bir şey.",
+        "5": "Saçıma bugün biraz parlaklık lazım.",
+        "6": "Yumuşak fırça ya da sünger alabilir miyim? {item} belki?"
+      },
+      "thanks": {
+        "0": "Sağ ol. Bir poğaça al lütfen.",
+        "1": "Hızlı ve güzel. Tam ihtiyacım olan.",
+        "2": "Artık sabah telaşına hazırım."
+      }
+    },
+    "noor": {
+      "name": "Noor",
+      "request": {
+        "0": "Merhaba. {item} alabilir miyim lütfen?",
+        "1": "Bugün yumuşak bir şey. {item} olur mu?",
+        "2": "Konserim için hafif bir koku.",
+        "3": "Cildim yorgun. {item} iyi gelir.",
+        "4": "Varsa {item} çok isterim.",
+        "5": "Provadan önce sakinleştirici bir şey lütfen."
+      },
+      "thanks": {
+        "0": "Sağ ol. Sessiz bir şarkı gibi.",
+        "1": "Çok nazik. Çok sevdim.",
+        "2": "Bugün neşeli bir şey çalacağım."
+      }
+    },
+    "mateo": {
+      "name": "Mateo",
+      "request": {
+        "0": "Selam. Günün nasıl? {item}, lütfen.",
+        "1": "Bu akşam veli toplantısı. {item} alabilir miyim?",
+        "2": "Sakalımı derli toplu tutacak bir şey.",
+        "3": "Sınıf için taze, temiz bir koku.",
+        "4": "Bugün bana {item} var mı?",
+        "5": "Çocuklar {item} lazım diyor."
+      },
+      "thanks": {
+        "0": "Harika iş. Çok sağ ol.",
+        "1": "Soru dolu bir sınıfa hazırım.",
+        "2": "Bütün günümü güzelleştirdin."
+      }
+    },
+    "grace": {
+      "name": "Grace",
+      "request": {
+        "0": "Merhaba canım. {item} var mı?",
+        "1": "Bu akşam koro provası. {item}, lütfen.",
+        "2": "Bugünü kutlamak için küçük bir şey.",
+        "3": "Bu eski dostun için {item} bulur musun?",
+        "4": "Atkıma uyan güzel bir renk.",
+        "5": "Tırnaklarım en güzel hâlini istiyor."
+      },
+      "thanks": {
+        "0": "Allah razı olsun canım. Tam istediğim.",
+        "1": "Bu akşam fazladan güzel söyleyeceğim.",
+        "2": "Sağ ol. Bu sokağı aydınlatıyorsun."
+      }
+    }
+  },
+  "chain": {
+    "lipstick": "Dudak Rengi",
+    "blush": "Yanak Pembesi",
+    "nails": "Tırnak Parıltısı",
+    "eyes": "Göz Işıltısı",
+    "brushes": "Fırça İşi",
+    "sponges": "Süngerler",
+    "lashes": "Kirpikler",
+    "skincare": "Cilt Bakımı",
+    "fragrance": "Aura Parfümü",
+    "hair": "Saç İpeği",
+    "haircolor": "Saç Rengi",
+    "oils": "Vücut Yağları",
+    "stones": "Spa Taşları",
+    "towels": "Havlular"
+  },
+  "item": {
+    "lipstick": {
+      "1": "Dudak Damlası",
+      "2": "Dudak Kalemi",
+      "3": "Kremsi Ruj",
+      "4": "İnci İkilisi",
+      "5": "Kristal Ruj",
+      "6": "Kalpli Ruj",
+      "7": "Mücevher Ruj",
+      "8": "Taçlı Ruj"
+    },
+    "blush": {
+      "1": "Allık Tozu",
+      "2": "Mini Pan",
+      "3": "Allık Fırçası",
+      "4": "Yuvarlak Pudralık",
+      "5": "Açık İkili Palet",
+      "6": "Kalpli Pudralık",
+      "7": "Çiçekli Kutu",
+      "8": "Kraliyet Allık Kutusu"
+    },
+    "nails": {
+      "1": "Tırnak Törpüsü",
+      "2": "Mini Örnek",
+      "3": "Tırnak Makası",
+      "4": "Simli Şişe",
+      "5": "UV Lambası",
+      "6": "Nail Art Seti",
+      "7": "Alet Sepeti",
+      "8": "Stüdyo Kutusu"
+    },
+    "eyes": {
+      "1": "Far Parçası",
+      "2": "Far Kutusu",
+      "3": "İkili Kalem",
+      "4": "Mini Maskara",
+      "5": "Kapalı Dörtlü",
+      "6": "Açık Dörtlü",
+      "7": "Kirpik Atölyesi",
+      "8": "Mücevher Paleti"
+    },
+    "brushes": {
+      "1": "Pamuk Ped",
+      "2": "Mini Far Fırçası",
+      "3": "Karıştırma Fırçası",
+      "4": "Pudra Fırçası",
+      "5": "İkili Set",
+      "6": "Süngerlik",
+      "7": "Rose Gold Fırçalık",
+      "8": "Fırça Dönel Standı"
+    },
+    "sponges": {
+      "1": "Sünger Kırıntısı",
+      "2": "Mini Üçgen",
+      "3": "Klasik Sünger",
+      "4": "Kesik Sünger",
+      "5": "Standlı İkili",
+      "6": "Yelpaze Seti",
+      "7": "Işıltı Tutacağı",
+      "8": "Güneş Ağacı"
+    },
+    "lashes": {
+      "1": "Kirpik Tutamı",
+      "2": "Mini Tepsi",
+      "3": "Aplikatör",
+      "4": "Doğal Şerit",
+      "5": "Kıvrık İkili",
+      "6": "Kirpik Kutusu",
+      "7": "Salon Barı",
+      "8": "Kirpik Avizesi"
+    },
+    "skincare": {
+      "1": "Numune Poşet",
+      "2": "Seyahat Tüpü",
+      "3": "Mini Kavanoz",
+      "4": "Pompalı Şişe",
+      "5": "İnci Kavanoz",
+      "6": "Damlalıklı Serum",
+      "7": "Spa Seti",
+      "8": "Spa Kutusu"
+    },
+    "fragrance": {
+      "1": "Numune Şişe",
+      "2": "Seyahat Spreyi",
+      "3": "Çanta Spreyi",
+      "4": "Klasik Şişe",
+      "5": "Çiçekli Flakon",
+      "6": "Kalpli Şişe",
+      "7": "Kristal Karaf",
+      "8": "Orkide Flakon"
+    },
+    "hair": {
+      "1": "Saç Tokası",
+      "2": "Mini Tarak",
+      "3": "Fiyonk Toka",
+      "4": "Düz Fırça",
+      "5": "Saç Yağı",
+      "6": "Kadife Kurdele",
+      "7": "El Aynası",
+      "8": "Yelpaze Tarak"
+    },
+    "haircolor": {
+      "1": "Boya Kasesi",
+      "2": "Fırça ve Kase",
+      "3": "Tüp",
+      "4": "Parlatıcı Şişe",
+      "5": "Renk İkilisi",
+      "6": "Salon Karıştırıcı",
+      "7": "Renk Barı",
+      "8": "Boya Fıskiyesi"
+    },
+    "oils": {
+      "1": "Ampul",
+      "2": "Rollon",
+      "3": "Damlalıklı Şişe",
+      "4": "Amber Şişe",
+      "5": "Masaj Yağı",
+      "6": "Hediye İkilisi",
+      "7": "Yağ Sepeti",
+      "8": "Aktar Çarkı"
+    },
+    "stones": {
+      "1": "Çakıl",
+      "2": "Sıcak Taş",
+      "3": "Taş İkilisi",
+      "4": "Avuç Taşı",
+      "5": "Taş Seti",
+      "6": "Zen Taş Kulesi"
+    },
+    "towels": {
+      "1": "Yüz Havlusu",
+      "2": "El Havlusu",
+      "3": "Rulo İkili",
+      "4": "Bandana Seti",
+      "5": "Banyo Havlusu",
+      "6": "Sıcak Havlular",
+      "7": "Keten Sepet",
+      "8": "Keten Piramit"
+    }
+  },
+  "gen": {
+    "vanity": {
+      "name": "Makyaj Çantası",
+      "1": "Yumuşak Kese",
+      "2": "Kapitone Çanta",
+      "3": "Seyahat Sandığı",
+      "4": "Salon Arabası"
+    },
+    "polishrack": {
+      "name": "Oje Rafı",
+      "1": "Mini Set",
+      "2": "Oje Sepeti",
+      "3": "Tırnak Arabası",
+      "4": "Manikür İstasyonu"
+    },
+    "brushbarrel": {
+      "name": "Fırça Kovası",
+      "1": "Bardak",
+      "2": "Kova",
+      "3": "Tekerlekli Sepet",
+      "4": "Atölye Kovası"
+    },
+    "studio": {
+      "name": "Göz Stüdyosu",
+      "1": "Makyaj Kesesi",
+      "2": "Göz Seti Kutusu",
+      "3": "Çekmeceli Masa",
+      "4": "Işıklı Stüdyo"
+    },
+    "dewcabi": {
+      "name": "Çiy Dolabı",
+      "1": "Numune Tepsisi",
+      "2": "Spa Sandığı",
+      "3": "Çiy Dolabı",
+      "4": "Atölye Dolabı"
+    },
+    "perfumeorgan": {
+      "name": "Parfüm Orgu",
+      "1": "Numune Rafı",
+      "2": "Mini Org",
+      "3": "Parfüm Orgu",
+      "4": "Koku Duvarı"
+    },
+    "spasteamer": {
+      "name": "Spa Buhar Cihazı",
+      "1": "Isıtma Kutusu",
+      "2": "Havlu Isıtıcı",
+      "3": "Spa Buhar Cihazı",
+      "4": "Ritüel Konsolu"
+    },
+    "haircart": {
+      "name": "Saç Atölyesi Arabası",
+      "1": "Kese",
+      "2": "Set Kutusu",
+      "3": "Saç Arabası",
+      "4": "Atölye İstasyonu"
+    }
+  },
+  "list": {
+    "two": "{a} ve {b}",
+    "and": "{items} ve {last}"
+  },
+  "recipe": {
+    "howToMake": "Nasıl yapılır",
+    "ingredients": "Malzemeler",
+    "comesFrom": "Kaynağı",
+    "produces": "Üretir",
+    "need": "{count}",
+    "showMe": "Göster",
+    "helpTitle": "Kısa yardım",
+    "helpBody": "Aynı iki parça birleşerek bir sonraki eşyayı oluşturur. Baştaki kutu ilk parçanın kaynağıdır. Daha fazlası için i’ye dokunun. Göster, onu tahtada işaretler.",
+    "notOnBoard": "Şu an tahtada yok.",
+    "unknown": "?"
+  }
+}

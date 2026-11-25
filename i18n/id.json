@@ -1,0 +1,441 @@
+{
+  "app": {
+    "title": "Soft Lustre",
+    "loading": "Membuka salon…"
+  },
+  "hud": {
+    "levelAbbr": "Lv",
+    "energyFull": "Penuh",
+    "energyEta": "+1 dalam {time}",
+    "energyFullIn": "Penuh {time} lagi",
+    "energyIsFull": "Energi penuh.",
+    "newGame": "Baru"
+  },
+  "settings": {
+    "title": "Pengaturan",
+    "hintsBlurb": "Saat kamu berhenti, petunjuk menunjuk gabungan.",
+    "hints": "Petunjuk",
+    "on": "Nyala",
+    "off": "Mati",
+    "done": "Selesai",
+    "language": "Bahasa"
+  },
+  "info": {
+    "idle": "Ketuk tas rias atau sebuah item.",
+    "resting": "Istirahat",
+    "tierNext": "Lv. {tier}  →  {next}",
+    "tierMax": "Lv. {tier}  ·  Tingkat maks",
+    "maxTier": "Tingkat maks",
+    "usesLeft": "Lv. {level}  ·  {count, plural, one {sisa {count} pakai} other {sisa {count} pakai}}",
+    "canMake": "Tas ini bisa membuat",
+    "closeHint": "Ketuk di luar untuk menutup",
+    "sell": "Jual",
+    "bag": "Tas"
+  },
+  "toast": {
+    "boardFull": "Papan penuh. Gabungkan atau jual dulu.",
+    "resting": "Tas ini sedang istirahat.",
+    "storageSoon": "Penyimpanan dibuka nanti.",
+    "level": "Level {level}",
+    "locked": "Capai level bertanda untuk buka petak."
+  },
+  "modal": {
+    "sellTitle": "Jual ini?",
+    "sellBody": "{item} seharga {price} koin?",
+    "sellConfirm": "Jual",
+    "welcomeTitle": "Soft Lustre",
+    "begin": "Mulai",
+    "introCard": "Lonceng di atas pintu masih berdenting dengan nada lembut yang sama. Rosa menyerahkan kunci sambil tersenyum. Buka tas rias, gabungkan harta kecilmu, dan bantu setiap tamu pulang dengan perasaan lebih menjadi dirinya sendiri.",
+    "energyTitle": "Energi",
+    "energyPlay": "Ayo main",
+    "restTitle": "Istirahat sebentar",
+    "restBody": "Energi kembali pelan-pelan. Poin berikutnya {next} lagi. Penuh lagi dalam {full}.",
+    "restOk": "OK",
+    "newTitle": "Mulai salon baru?",
+    "newBody": "Papan tersimpan di perangkat ini akan dihapus.",
+    "newConfirm": "Mulai ulang"
+  },
+  "tutorial": {
+    "welcome": "Selamat datang di salonmu. Ayo buat bersinar lagi.",
+    "tapVanity": "Ketuk tas rias untuk melihat isinya.",
+    "mergeDrops": "Seret satu tetes bibir ke yang lain untuk menggabungkan.",
+    "mergeAgain": "Bagus. Gabungkan dua ini untuk jadi sesuatu yang baru.",
+    "clientOrder": "Lena menunggu. Temukan yang dia minta.",
+    "orderComplete": "Kerja indah. Lena senang sekali.",
+    "energyLesson": "Energi pulih seiring waktu. Istirahat bagian dari kerja.",
+    "goodbye": "Waktunya teh. Kembali ya, salon menunggumu."
+  },
+  "tips": {
+    "sell": "Belum perlu? Jual item itu dapat beberapa koin.",
+    "locked": "Capai level bertanda untuk buka petak."
+  },
+  "intro": {
+    "short": "Selamat datang di salonmu. Ayo buat bersinar lagi."
+  },
+  "clients": {
+    "guest": "Tamu",
+    "fallbackThanks": "Terima kasih.",
+    "lena": {
+      "name": "Lena",
+      "request": {
+        "0": "Boleh aku coba {item} hari ini?",
+        "1": "Nanti ada kelas. {item}, ya?",
+        "2": "Sesuatu yang baru. Mungkin {item}?",
+        "3": "Aku lihat {item} di mimpi buku sketsaku.",
+        "4": "Warna segar untuk musim semi, ya.",
+        "5": "Kukuku butuh keseruan hari ini.",
+        "6": "Bulu mataku butuh sentuhan hari ini."
+      },
+      "thanks": {
+        "0": "Suka sekali. Terima kasih banyak.",
+        "1": "Ini langsung masuk buku sketsaku.",
+        "2": "Kamu selalu tahu seleraku."
+      }
+    },
+    "amara": {
+      "name": "Amara",
+      "request": {
+        "0": "Hadiah akhir pekanku. {item}, ya.",
+        "1": "Seminggu penuh kurencanakan demi {item}.",
+        "2": "Hari ini {item} saja. Terima kasih.",
+        "3": "Aku percaya padamu. Bisa carikan {item}?",
+        "4": "Kilau tenang dan bersih untuk rapat penting.",
+        "5": "Sesuatu yang lembut untuk ikalku, ya.",
+        "6": "Boleh pinjam kuas atau spons lembut? Mungkin {item}?"
+      },
+      "thanks": {
+        "0": "Sempurna. Persis harapanku.",
+        "1": "Kamu bikin akhir pekanku istimewa.",
+        "2": "Terima kasih. Aku siap menghadapi apa pun."
+      }
+    },
+    "hiro": {
+      "name": "Hiro",
+      "request": {
+        "0": "Selamat pagi. Ada {item}?",
+        "1": "Minta tolong sedikit. {item}, ya.",
+        "2": "Tanganku kerja keras. {item} akan membantu.",
+        "3": "Sesuatu yang wangi seperti kebun.",
+        "4": "Boleh minta {item} sebelum lapakku buka?",
+        "5": "Putriku bilang aku harus coba {item}."
+      },
+      "thanks": {
+        "0": "Bagus sekali. Terima kasih, Kawan.",
+        "1": "Segar seperti bunga pagiku.",
+        "2": "Akan kuceritakan ke seisi pasar."
+      }
+    },
+    "sofia": {
+      "name": "Sofia",
+      "request": {
+        "0": "Malam ini aku keluar. {item}, Sayang?",
+        "1": "Sedikit kilau, ya. Mungkin {item}?",
+        "2": "Bisa carikan {item} untukku?",
+        "3": "Sesuatu yang anggun untuk teater malam ini.",
+        "4": "Warna mawar hangat, kalau ada.",
+        "5": "Aroma lembut, seperti wals lama.",
+        "6": "Bulu mataku butuh sentuhan hari ini."
+      },
+      "thanks": {
+        "0": "Luar biasa. Aku ingin menari.",
+        "1": "Sentuhanmu lembut sekali.",
+        "2": "Terima kasih, Sayang. Indah sekali."
+      }
+    },
+    "priya": {
+      "name": "Priya",
+      "request": {
+        "0": "Mampir sebentar sebelum oven. {item}, ya?",
+        "1": "Aku bawa kue. Boleh minta {item}?",
+        "2": "Kilau segar untuk hari yang sibuk.",
+        "3": "{item} sudah siap? Aku agak buru-buru.",
+        "4": "Sesuatu yang cantik untuk pesta kakakku.",
+        "5": "Rambutku butuh kilau hari ini.",
+        "6": "Boleh pinjam kuas atau spons lembut? Mungkin {item}?"
+      },
+      "thanks": {
+        "0": "Terima kasih. Ambil kuenya, ya.",
+        "1": "Cepat dan cantik. Pas sekali.",
+        "2": "Sekarang aku siap menghadapi jam sibuk."
+      }
+    },
+    "noor": {
+      "name": "Noor",
+      "request": {
+        "0": "Halo. Boleh minta {item}?",
+        "1": "Sesuatu yang lembut hari ini. Mungkin {item}?",
+        "2": "Aroma lembut untuk konserku.",
+        "3": "Kulitku lelah. {item} akan membantu.",
+        "4": "Aku mau {item}, kalau ada.",
+        "5": "Sesuatu yang menenangkan sebelum latihan."
+      },
+      "thanks": {
+        "0": "Terima kasih. Rasanya seperti lagu tenang.",
+        "1": "Lembut sekali. Aku suka.",
+        "2": "Hari ini aku akan memainkan lagu ceria."
+      }
+    },
+    "mateo": {
+      "name": "Mateo",
+      "request": {
+        "0": "Hai. Bagaimana harimu? {item}, ya.",
+        "1": "Malam ini rapat wali murid. Boleh minta {item}?",
+        "2": "Sesuatu agar jenggotku rapi.",
+        "3": "Aroma segar dan bersih untuk kelas.",
+        "4": "Ada {item} untukku hari ini?",
+        "5": "Anak-anak bilang aku perlu {item}."
+      },
+      "thanks": {
+        "0": "Kerja hebat. Terima kasih banyak.",
+        "1": "Siap menghadapi kelas penuh pertanyaan.",
+        "2": "Kamu memperbaiki seluruh hariku."
+      }
+    },
+    "grace": {
+      "name": "Grace",
+      "request": {
+        "0": "Halo, Sayang. Ada {item}?",
+        "1": "Malam ini latihan paduan suara. {item}, ya.",
+        "2": "Sesuatu kecil untuk merayakan hari ini.",
+        "3": "Bisa carikan {item} untuk sahabat tua ini?",
+        "4": "Warna cantik yang serasi dengan syalku.",
+        "5": "Kukuku ingin tampil terbaik."
+      },
+      "thanks": {
+        "0": "Tuhan memberkatimu, Sayang. Sempurna.",
+        "1": "Malam ini aku bernyanyi lebih merdu.",
+        "2": "Terima kasih. Kamu menerangi jalan ini."
+      }
+    }
+  },
+  "chain": {
+    "lipstick": "Warna Bibir",
+    "blush": "Mekar Pipi",
+    "nails": "Kilau Kuku",
+    "eyes": "Cahaya Mata",
+    "brushes": "Seni Kuas",
+    "sponges": "Spons",
+    "lashes": "Bulu Mata",
+    "skincare": "Embun Kulit",
+    "fragrance": "Parfum Aura",
+    "hair": "Sutra Rambut",
+    "haircolor": "Warna Rambut",
+    "oils": "Minyak Tubuh",
+    "stones": "Batu Spa",
+    "towels": "Handuk"
+  },
+  "item": {
+    "lipstick": {
+      "1": "Tetes Bibir",
+      "2": "Pensil Bibir",
+      "3": "Lipstik Krim",
+      "4": "Duo Mutiara",
+      "5": "Lipstik Kristal",
+      "6": "Lipstik Bentuk Hati",
+      "7": "Lipstik Permata",
+      "8": "Lipstik Mahkota"
+    },
+    "blush": {
+      "1": "Serbuk Blush",
+      "2": "Mini Pan",
+      "3": "Kuas Blush",
+      "4": "Bedak Bulat",
+      "5": "Palet Duo Terbuka",
+      "6": "Bedak Hati",
+      "7": "Kotak Bunga",
+      "8": "Peti Blush Kerajaan"
+    },
+    "nails": {
+      "1": "Kikir Kuku",
+      "2": "Mini Sampel",
+      "3": "Gunting Kuku",
+      "4": "Botol Glitter",
+      "5": "Lampu UV",
+      "6": "Set Nail Art",
+      "7": "Keranjang Alat",
+      "8": "Kotak Studio"
+    },
+    "eyes": {
+      "1": "Serpih Eyeshadow",
+      "2": "Pot Eyeshadow",
+      "3": "Krayon Duo",
+      "4": "Maskara Mini",
+      "5": "Kuartet Tertutup",
+      "6": "Kuartet Terbuka",
+      "7": "Atelier Bulu Mata",
+      "8": "Palet Permata"
+    },
+    "brushes": {
+      "1": "Kapas Wajah",
+      "2": "Mini Shader",
+      "3": "Kuas Blending",
+      "4": "Kuas Bedak",
+      "5": "Set Duo",
+      "6": "Wadah Spons",
+      "7": "Wadah Rose Gold",
+      "8": "Komidi Putar Kuas"
+    },
+    "sponges": {
+      "1": "Remah Spons",
+      "2": "Mini Wedge",
+      "3": "Spons Klasik",
+      "4": "Spons Potong",
+      "5": "Sepasang di Dudukan",
+      "6": "Set Kipas",
+      "7": "Dudukan Glow",
+      "8": "Pohon Surya"
+    },
+    "lashes": {
+      "1": "Rumpun Bulu Mata",
+      "2": "Nampan Mini",
+      "3": "Aplikator",
+      "4": "Strip Alami",
+      "5": "Sepasang Flare",
+      "6": "Kotak Bulu Mata",
+      "7": "Bar Salon",
+      "8": "Lampu Hias Bulu Mata"
+    },
+    "skincare": {
+      "1": "Sachet Sampel",
+      "2": "Tube Travel",
+      "3": "Jar Mini",
+      "4": "Botol Pump",
+      "5": "Jar Mutiara",
+      "6": "Serum Tetes",
+      "7": "Set Spa",
+      "8": "Kotak Spa"
+    },
+    "fragrance": {
+      "1": "Vial Sampel",
+      "2": "Atomizer Travel",
+      "3": "Semprot Tas",
+      "4": "Botol Klasik",
+      "5": "Flakon Bunga",
+      "6": "Botol Bentuk Hati",
+      "7": "Dekanter Kristal",
+      "8": "Flakon Anggrek"
+    },
+    "hair": {
+      "1": "Jepit Rambut",
+      "2": "Sisir Mini",
+      "3": "Jepit Pita",
+      "4": "Sikat Paddle",
+      "5": "Minyak Rambut",
+      "6": "Pita Beludru",
+      "7": "Cermin Tangan",
+      "8": "Sisir Kipas"
+    },
+    "haircolor": {
+      "1": "Mangkuk Pewarna",
+      "2": "Kuas & Mangkuk",
+      "3": "Tube",
+      "4": "Botol Gloss",
+      "5": "Sepasang Warna",
+      "6": "Pengaduk Salon",
+      "7": "Bar Warna",
+      "8": "Air Mancur Warna"
+    },
+    "oils": {
+      "1": "Ampul",
+      "2": "Roller",
+      "3": "Botol Tetes",
+      "4": "Botol Amber",
+      "5": "Minyak Pijat",
+      "6": "Duo Hadiah",
+      "7": "Wadah Minyak",
+      "8": "Roda Apoteker"
+    },
+    "stones": {
+      "1": "Kerikil",
+      "2": "Batu Hangat",
+      "3": "Batu Berpasangan",
+      "4": "Batu Genggam",
+      "5": "Set Batu",
+      "6": "Tumpukan Zen"
+    },
+    "towels": {
+      "1": "Waslap",
+      "2": "Handuk Tangan",
+      "3": "Sepasang Gulung",
+      "4": "Set Bando",
+      "5": "Handuk Mandi",
+      "6": "Tumpukan Hangat",
+      "7": "Keranjang Linen",
+      "8": "Piramida Linen"
+    }
+  },
+  "gen": {
+    "vanity": {
+      "name": "Tas Rias",
+      "1": "Kantong Lembut",
+      "2": "Tas Rias Quilt",
+      "3": "Koper Travel",
+      "4": "Troli Salon"
+    },
+    "polishrack": {
+      "name": "Rak Kutek",
+      "1": "Kit Mini",
+      "2": "Wadah Kutek",
+      "3": "Troli Kuku",
+      "4": "Stasiun Manikur"
+    },
+    "brushbarrel": {
+      "name": "Tong Kuas",
+      "1": "Cangkir",
+      "2": "Tong",
+      "3": "Wadah Roda",
+      "4": "Tong Atelier"
+    },
+    "studio": {
+      "name": "Studio Mata",
+      "1": "Pouch Rias",
+      "2": "Kotak Kit Mata",
+      "3": "Meja Rias Laci",
+      "4": "Studio Berlampu"
+    },
+    "dewcabi": {
+      "name": "Lemari Embun",
+      "1": "Nampan Sampel",
+      "2": "Peti Spa",
+      "3": "Lemari Embun",
+      "4": "Lemari Atelier"
+    },
+    "perfumeorgan": {
+      "name": "Organ Parfum",
+      "1": "Rak Sampel",
+      "2": "Organet",
+      "3": "Organ Parfum",
+      "4": "Dinding Wangi"
+    },
+    "spasteamer": {
+      "name": "Pengukus Spa",
+      "1": "Kotak Hangat",
+      "2": "Penghangat Handuk",
+      "3": "Pengukus Spa",
+      "4": "Konsol Ritual"
+    },
+    "haircart": {
+      "name": "Troli Atelier Rambut",
+      "1": "Kantong",
+      "2": "Kotak Kit",
+      "3": "Troli Rambut",
+      "4": "Stasiun Atelier"
+    }
+  },
+  "list": {
+    "two": "{a} dan {b}",
+    "and": "{items}, dan {last}"
+  },
+  "recipe": {
+    "howToMake": "Cara membuat",
+    "ingredients": "Bahan",
+    "comesFrom": "Asal",
+    "produces": "Menghasilkan",
+    "need": "{count}",
+    "showMe": "Tunjukkan",
+    "helpTitle": "Bantuan singkat",
+    "helpBody": "Dua barang yang sama digabung menjadi barang berikutnya. Kotak di awal adalah sumber potongan pertama. Ketuk i untuk melihat lebih banyak. «Tunjukkan» menunjukkannya di papan.",
+    "notOnBoard": "Saat ini tidak ada di papan.",
+    "unknown": "?"
+  }
+}
