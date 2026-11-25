@@ -21,7 +21,12 @@
     "nails": "nails",
     "skincare": "skin",
     "fragrance": "scent",
-    "hair": "hair"
+    "hair": "hair",
+    "blush": "lips",
+    "eyes": "lashes",
+    "brushes": "tools",
+    "sponges": "skin",
+    "lashes": "lashes"
   },
   "clients": [
     {
@@ -47,6 +52,10 @@
         {
           "text": "My nails need a little fun today.",
           "tag": "nails"
+        },
+        {
+          "text": "A little lift for my lashes today.",
+          "tag": "lashes"
         }
       ],
       "thanks": [
@@ -78,6 +87,10 @@
         {
           "text": "Something soft for my curls, please.",
           "tag": "hair"
+        },
+        {
+          "text": "Could I borrow a soft brush or sponge? Maybe {item}?",
+          "tag": "tools"
         }
       ],
       "thanks": [
@@ -140,6 +153,10 @@
         {
           "text": "A soft scent, like an old waltz.",
           "tag": "scent"
+        },
+        {
+          "text": "A little lift for my lashes today.",
+          "tag": "lashes"
         }
       ],
       "thanks": [
@@ -171,6 +188,10 @@
         {
           "text": "My hair needs a little shine today.",
           "tag": "hair"
+        },
+        {
+          "text": "Could I borrow a soft brush or sponge? Maybe {item}?",
+          "tag": "tools"
         }
       ],
       "thanks": [

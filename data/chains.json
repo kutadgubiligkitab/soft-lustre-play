@@ -148,7 +148,7 @@
     {
       "id": "eyes",
       "name": "Eye Glow",
-      "unlockLevel": 14,
+      "unlockLevel": 6,
       "generator": "studio",
       "tiers": [
         {
@@ -194,19 +194,175 @@
       ]
     },
     {
-      "id": "skincare",
-      "name": "Skin Dew",
-      "unlockLevel": 16,
-      "generator": "dewcabi",
+      "id": "brushes",
+      "name": "Brushwork",
+      "unlockLevel": 3,
+      "generator": "brushbarrel",
+      "hue": "cream rose-gold",
+      "t1": "cotton pad stack",
+      "tmax": "illuminated brush carousel",
       "tiers": [
         {
           "tier": 1,
-          "name": "Dew Drop",
+          "name": "Cotton Pad",
           "sell": 0
         },
         {
           "tier": 2,
+          "name": "Mini Shader",
+          "sell": 1
+        },
+        {
+          "tier": 3,
+          "name": "Blending Brush",
+          "sell": 2
+        },
+        {
+          "tier": 4,
+          "name": "Powder Brush",
+          "sell": 4
+        },
+        {
+          "tier": 5,
+          "name": "Duo Set",
+          "sell": 6
+        },
+        {
+          "tier": 6,
+          "name": "Sponge Caddy",
+          "sell": 10
+        },
+        {
+          "tier": 7,
+          "name": "Rose-Gold Caddy",
+          "sell": 16
+        },
+        {
+          "tier": 8,
+          "name": "Brush Carousel",
+          "sell": 24
+        }
+      ]
+    },
+    {
+      "id": "sponges",
+      "name": "Sponges",
+      "unlockLevel": 3,
+      "generator": "brushbarrel",
+      "hue": "sunny yellow",
+      "t1": "mini wedge",
+      "tmax": "sunburst sponge tree",
+      "tiers": [
+        {
+          "tier": 1,
+          "name": "Sponge Crumb",
+          "sell": 0
+        },
+        {
+          "tier": 2,
+          "name": "Mini Wedge",
+          "sell": 1
+        },
+        {
+          "tier": 3,
+          "name": "Classic Sponge",
+          "sell": 2
+        },
+        {
+          "tier": 4,
+          "name": "Cut Sponge",
+          "sell": 4
+        },
+        {
+          "tier": 5,
+          "name": "Pair on a Stand",
+          "sell": 6
+        },
+        {
+          "tier": 6,
+          "name": "Fan Set",
+          "sell": 10
+        },
+        {
+          "tier": 7,
+          "name": "Glow Holder",
+          "sell": 16
+        },
+        {
+          "tier": 8,
+          "name": "Sunburst Tree",
+          "sell": 24
+        }
+      ]
+    },
+    {
+      "id": "lashes",
+      "name": "Lashes",
+      "unlockLevel": 6,
+      "generator": "studio",
+      "hue": "charcoal gold",
+      "t1": "lash tuft",
+      "tmax": "arched lash chandelier",
+      "tiers": [
+        {
+          "tier": 1,
+          "name": "Lash Tuft",
+          "sell": 0
+        },
+        {
+          "tier": 2,
+          "name": "Mini Tray",
+          "sell": 1
+        },
+        {
+          "tier": 3,
+          "name": "Applicator",
+          "sell": 2
+        },
+        {
+          "tier": 4,
+          "name": "Natural Strip",
+          "sell": 4
+        },
+        {
+          "tier": 5,
+          "name": "Flare Pair",
+          "sell": 6
+        },
+        {
+          "tier": 6,
+          "name": "Lash Case",
+          "sell": 10
+        },
+        {
+          "tier": 7,
+          "name": "Salon Bar",
+          "sell": 16
+        },
+        {
+          "tier": 8,
+          "name": "Lash Chandelier",
+          "sell": 24
+        }
+      ]
+    },
+    {
+      "id": "skincare",
+      "name": "Skin Dew",
+      "unlockLevel": 5,
+      "generator": "dewcabi",
+      "hue": "ivory milky sage",
+      "t1": "folded sachet",
+      "tmax": "rectangular spa coffret",
+      "tiers": [
+        {
+          "tier": 1,
           "name": "Sample Sachet",
+          "sell": 0
+        },
+        {
+          "tier": 2,
+          "name": "Travel Tube",
           "sell": 1
         },
         {
@@ -236,7 +392,7 @@
         },
         {
           "tier": 8,
-          "name": "Gold Coffret",
+          "name": "Spa Coffret",
           "sell": 24
         }
       ]
@@ -244,22 +400,25 @@
     {
       "id": "fragrance",
       "name": "Aura Fragrance",
-      "unlockLevel": 18,
+      "unlockLevel": 5,
       "generator": "dewcabi",
+      "hue": "mint teal",
+      "t1": "slim vial",
+      "tmax": "orchid-stopper flacon",
       "tiers": [
         {
           "tier": 1,
-          "name": "Scent Drop",
+          "name": "Sample Vial",
           "sell": 0
         },
         {
           "tier": 2,
-          "name": "Sample Vial",
+          "name": "Travel Atomizer",
           "sell": 1
         },
         {
           "tier": 3,
-          "name": "Travel Atomizer",
+          "name": "Purse Spray",
           "sell": 2
         },
         {
@@ -284,7 +443,7 @@
         },
         {
           "tier": 8,
-          "name": "Palace Flacon",
+          "name": "Orchid Flacon",
           "sell": 24
         }
       ]
@@ -293,7 +452,7 @@
       "id": "hair",
       "name": "Hair Silk",
       "unlockLevel": 26,
-      "generator": "studio",
+      "generator": "haircart",
       "tiers": [
         {
           "tier": 1,
@@ -333,54 +492,6 @@
         {
           "tier": 8,
           "name": "Crown Comb",
-          "sell": 24
-        }
-      ]
-    },
-    {
-      "id": "brushes",
-      "name": "Brushwork",
-      "unlockLevel": 32,
-      "generator": "vanity",
-      "tiers": [
-        {
-          "tier": 1,
-          "name": "Cotton Pad",
-          "sell": 0
-        },
-        {
-          "tier": 2,
-          "name": "Sponge",
-          "sell": 1
-        },
-        {
-          "tier": 3,
-          "name": "Mini Brush",
-          "sell": 2
-        },
-        {
-          "tier": 4,
-          "name": "Powder Brush",
-          "sell": 4
-        },
-        {
-          "tier": 5,
-          "name": "Duo Set",
-          "sell": 6
-        },
-        {
-          "tier": 6,
-          "name": "Sponge Caddy",
-          "sell": 10
-        },
-        {
-          "tier": 7,
-          "name": "Rose-Gold Caddy",
-          "sell": 16
-        },
-        {
-          "tier": 8,
-          "name": "Vanity Display",
           "sell": 24
         }
       ]

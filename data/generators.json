@@ -146,12 +146,12 @@
             {
               "chain": "lipstick",
               "tier": 2,
-              "p": 0.08
+              "p": 0.1
             },
             {
               "chain": "lipstick",
               "tier": 3,
-              "p": 0.16
+              "p": 0.18
             },
             {
               "chain": "lipstick",
@@ -171,12 +171,12 @@
             {
               "chain": "blush",
               "tier": 2,
-              "p": 0.08
+              "p": 0.1
             },
             {
               "chain": "blush",
               "tier": 3,
-              "p": 0.14
+              "p": 0.16
             },
             {
               "chain": "blush",
@@ -191,16 +191,6 @@
             {
               "chain": "blush",
               "tier": 6,
-              "p": 0.02
-            },
-            {
-              "chain": "brushes",
-              "tier": 1,
-              "p": 0.06
-            },
-            {
-              "chain": "brushes",
-              "tier": 2,
               "p": 0.04
             }
           ]
@@ -320,14 +310,15 @@
       ]
     },
     {
-      "id": "dewcabi",
-      "name": "Dew Cabinet",
-      "unlockLevel": 16,
+      "id": "brushbarrel",
+      "name": "Brush Barrel",
+      "unlockLevel": 3,
+      "type": "tap",
       "levelNames": [
-        "Sample Tray",
-        "Spa Crate",
-        "Perfume Cabinet",
-        "Atelier Armoire"
+        "Cup",
+        "Barrel",
+        "Rolling Caddy",
+        "Atelier Barrel"
       ],
       "levels": [
         {
@@ -335,19 +326,24 @@
           "charges": 14,
           "drops": [
             {
-              "chain": "skincare",
+              "chain": "brushes",
               "tier": 1,
-              "p": 0.7
+              "p": 0.5
             },
             {
-              "chain": "skincare",
+              "chain": "sponges",
+              "tier": 1,
+              "p": 0.35
+            },
+            {
+              "chain": "brushes",
               "tier": 2,
-              "p": 0.2
+              "p": 0.1
             },
             {
-              "chain": "fragrance",
-              "tier": 1,
-              "p": 0.1
+              "chain": "sponges",
+              "tier": 2,
+              "p": 0.05
             }
           ]
         },
@@ -356,34 +352,34 @@
           "charges": 15,
           "drops": [
             {
-              "chain": "skincare",
-              "tier": 1,
-              "p": 0.32
-            },
-            {
-              "chain": "fragrance",
+              "chain": "brushes",
               "tier": 1,
               "p": 0.28
             },
             {
-              "chain": "skincare",
+              "chain": "sponges",
+              "tier": 1,
+              "p": 0.22
+            },
+            {
+              "chain": "brushes",
+              "tier": 2,
+              "p": 0.18
+            },
+            {
+              "chain": "sponges",
               "tier": 2,
               "p": 0.16
             },
             {
-              "chain": "fragrance",
-              "tier": 2,
-              "p": 0.14
+              "chain": "brushes",
+              "tier": 3,
+              "p": 0.1
             },
             {
-              "chain": "skincare",
+              "chain": "sponges",
               "tier": 3,
               "p": 0.06
-            },
-            {
-              "chain": "fragrance",
-              "tier": 3,
-              "p": 0.04
             }
           ]
         },
@@ -392,53 +388,43 @@
           "charges": 16,
           "drops": [
             {
-              "chain": "skincare",
+              "chain": "brushes",
               "tier": 1,
-              "p": 0.08
+              "p": 0.12
             },
             {
-              "chain": "skincare",
+              "chain": "brushes",
               "tier": 2,
-              "p": 0.14
+              "p": 0.18
             },
             {
-              "chain": "skincare",
+              "chain": "brushes",
               "tier": 3,
               "p": 0.14
             },
             {
-              "chain": "skincare",
+              "chain": "brushes",
               "tier": 4,
               "p": 0.08
             },
             {
-              "chain": "skincare",
-              "tier": 5,
-              "p": 0.04
-            },
-            {
-              "chain": "fragrance",
+              "chain": "sponges",
               "tier": 1,
-              "p": 0.08
+              "p": 0.1
             },
             {
-              "chain": "fragrance",
+              "chain": "sponges",
               "tier": 2,
-              "p": 0.14
+              "p": 0.16
             },
             {
-              "chain": "fragrance",
+              "chain": "sponges",
               "tier": 3,
               "p": 0.14
             },
             {
-              "chain": "fragrance",
+              "chain": "sponges",
               "tier": 4,
-              "p": 0.08
-            },
-            {
-              "chain": "fragrance",
-              "tier": 5,
               "p": 0.08
             }
           ]
@@ -448,54 +434,44 @@
           "charges": 18,
           "drops": [
             {
-              "chain": "skincare",
+              "chain": "brushes",
               "tier": 2,
-              "p": 0.08
+              "p": 0.12
             },
             {
-              "chain": "skincare",
+              "chain": "brushes",
               "tier": 3,
-              "p": 0.14
+              "p": 0.16
             },
             {
-              "chain": "skincare",
+              "chain": "brushes",
               "tier": 4,
               "p": 0.14
             },
             {
-              "chain": "skincare",
+              "chain": "brushes",
               "tier": 5,
-              "p": 0.08
+              "p": 0.1
             },
             {
-              "chain": "skincare",
-              "tier": 6,
-              "p": 0.04
-            },
-            {
-              "chain": "fragrance",
+              "chain": "sponges",
               "tier": 2,
-              "p": 0.08
+              "p": 0.1
             },
             {
-              "chain": "fragrance",
+              "chain": "sponges",
               "tier": 3,
               "p": 0.14
             },
             {
-              "chain": "fragrance",
+              "chain": "sponges",
               "tier": 4,
               "p": 0.14
             },
             {
-              "chain": "fragrance",
+              "chain": "sponges",
               "tier": 5,
-              "p": 0.08
-            },
-            {
-              "chain": "fragrance",
-              "tier": 6,
-              "p": 0.08
+              "p": 0.1
             }
           ]
         }
@@ -503,15 +479,15 @@
     },
     {
       "id": "studio",
-      "name": "Studio Loft",
-      "unlockLevel": 14,
+      "name": "Eye Studio",
+      "unlockLevel": 6,
+      "type": "tap",
       "levelNames": [
         "Makeup Pouch",
         "Eye Kit Box",
         "Drawer Vanity",
         "Illuminated Studio"
       ],
-      "dropsHairFromLevel": 26,
       "levels": [
         {
           "level": 1,
@@ -527,28 +503,6 @@
               "tier": 2,
               "p": 0.2
             }
-          ],
-          "dropsWithHair": [
-            {
-              "chain": "eyes",
-              "tier": 1,
-              "p": 0.5
-            },
-            {
-              "chain": "hair",
-              "tier": 1,
-              "p": 0.3
-            },
-            {
-              "chain": "eyes",
-              "tier": 2,
-              "p": 0.14
-            },
-            {
-              "chain": "hair",
-              "tier": 2,
-              "p": 0.06
-            }
           ]
         },
         {
@@ -558,49 +512,27 @@
             {
               "chain": "eyes",
               "tier": 1,
-              "p": 0.5
+              "p": 0.36
             },
             {
               "chain": "eyes",
               "tier": 2,
-              "p": 0.35
+              "p": 0.24
             },
             {
               "chain": "eyes",
               "tier": 3,
-              "p": 0.15
-            }
-          ],
-          "dropsWithHair": [
-            {
-              "chain": "eyes",
-              "tier": 1,
-              "p": 0.28
+              "p": 0.12
             },
             {
-              "chain": "hair",
+              "chain": "lashes",
               "tier": 1,
-              "p": 0.22
-            },
-            {
-              "chain": "eyes",
-              "tier": 2,
               "p": 0.18
             },
             {
-              "chain": "hair",
+              "chain": "lashes",
               "tier": 2,
-              "p": 0.14
-            },
-            {
-              "chain": "eyes",
-              "tier": 3,
               "p": 0.1
-            },
-            {
-              "chain": "hair",
-              "tier": 3,
-              "p": 0.08
             }
           ]
         },
@@ -611,79 +543,47 @@
             {
               "chain": "eyes",
               "tier": 1,
-              "p": 0.16
+              "p": 0.12
             },
             {
               "chain": "eyes",
               "tier": 2,
-              "p": 0.28
-            },
-            {
-              "chain": "eyes",
-              "tier": 3,
-              "p": 0.3
-            },
-            {
-              "chain": "eyes",
-              "tier": 4,
               "p": 0.18
             },
             {
               "chain": "eyes",
-              "tier": 5,
-              "p": 0.08
-            }
-          ],
-          "dropsWithHair": [
-            {
-              "chain": "eyes",
-              "tier": 1,
-              "p": 0.08
-            },
-            {
-              "chain": "eyes",
-              "tier": 2,
-              "p": 0.14
-            },
-            {
-              "chain": "eyes",
               "tier": 3,
-              "p": 0.14
+              "p": 0.16
             },
             {
               "chain": "eyes",
               "tier": 4,
-              "p": 0.08
+              "p": 0.1
             },
             {
               "chain": "eyes",
               "tier": 5,
+              "p": 0.06
+            },
+            {
+              "chain": "lashes",
+              "tier": 1,
+              "p": 0.1
+            },
+            {
+              "chain": "lashes",
+              "tier": 2,
+              "p": 0.14
+            },
+            {
+              "chain": "lashes",
+              "tier": 3,
+              "p": 0.1
+            },
+            {
+              "chain": "lashes",
+              "tier": 4,
               "p": 0.04
-            },
-            {
-              "chain": "hair",
-              "tier": 1,
-              "p": 0.08
-            },
-            {
-              "chain": "hair",
-              "tier": 2,
-              "p": 0.14
-            },
-            {
-              "chain": "hair",
-              "tier": 3,
-              "p": 0.14
-            },
-            {
-              "chain": "hair",
-              "tier": 4,
-              "p": 0.08
-            },
-            {
-              "chain": "hair",
-              "tier": 5,
-              "p": 0.08
             }
           ]
         },
@@ -694,79 +594,215 @@
             {
               "chain": "eyes",
               "tier": 2,
+              "p": 0.12
+            },
+            {
+              "chain": "eyes",
+              "tier": 3,
               "p": 0.16
             },
             {
               "chain": "eyes",
-              "tier": 3,
-              "p": 0.28
-            },
-            {
-              "chain": "eyes",
               "tier": 4,
-              "p": 0.28
+              "p": 0.14
             },
             {
               "chain": "eyes",
               "tier": 5,
+              "p": 0.1
+            },
+            {
+              "chain": "eyes",
+              "tier": 6,
+              "p": 0.06
+            },
+            {
+              "chain": "lashes",
+              "tier": 2,
+              "p": 0.1
+            },
+            {
+              "chain": "lashes",
+              "tier": 3,
+              "p": 0.14
+            },
+            {
+              "chain": "lashes",
+              "tier": 4,
+              "p": 0.1
+            },
+            {
+              "chain": "lashes",
+              "tier": 5,
+              "p": 0.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dewcabi",
+      "name": "Dew Cabinet",
+      "unlockLevel": 5,
+      "type": "tap",
+      "levelNames": [
+        "Sample Tray",
+        "Spa Crate",
+        "Dew Cabinet",
+        "Atelier Armoire"
+      ],
+      "levels": [
+        {
+          "level": 1,
+          "charges": 14,
+          "drops": [
+            {
+              "chain": "skincare",
+              "tier": 1,
+              "p": 0.5
+            },
+            {
+              "chain": "fragrance",
+              "tier": 1,
+              "p": 0.35
+            },
+            {
+              "chain": "skincare",
+              "tier": 2,
+              "p": 0.1
+            },
+            {
+              "chain": "fragrance",
+              "tier": 2,
+              "p": 0.05
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "charges": 15,
+          "drops": [
+            {
+              "chain": "skincare",
+              "tier": 1,
+              "p": 0.28
+            },
+            {
+              "chain": "fragrance",
+              "tier": 1,
+              "p": 0.22
+            },
+            {
+              "chain": "skincare",
+              "tier": 2,
               "p": 0.18
             },
             {
-              "chain": "eyes",
-              "tier": 6,
+              "chain": "fragrance",
+              "tier": 2,
+              "p": 0.16
+            },
+            {
+              "chain": "skincare",
+              "tier": 3,
               "p": 0.1
+            },
+            {
+              "chain": "fragrance",
+              "tier": 3,
+              "p": 0.06
             }
-          ],
-          "dropsWithHair": [
+          ]
+        },
+        {
+          "level": 3,
+          "charges": 16,
+          "drops": [
             {
-              "chain": "eyes",
-              "tier": 2,
-              "p": 0.08
+              "chain": "skincare",
+              "tier": 1,
+              "p": 0.12
             },
             {
-              "chain": "eyes",
+              "chain": "skincare",
+              "tier": 2,
+              "p": 0.18
+            },
+            {
+              "chain": "skincare",
               "tier": 3,
               "p": 0.14
             },
             {
-              "chain": "eyes",
+              "chain": "skincare",
               "tier": 4,
-              "p": 0.14
-            },
-            {
-              "chain": "eyes",
-              "tier": 5,
               "p": 0.08
             },
             {
-              "chain": "eyes",
-              "tier": 6,
-              "p": 0.04
+              "chain": "fragrance",
+              "tier": 1,
+              "p": 0.1
             },
             {
-              "chain": "hair",
+              "chain": "fragrance",
               "tier": 2,
-              "p": 0.08
+              "p": 0.16
             },
             {
-              "chain": "hair",
+              "chain": "fragrance",
               "tier": 3,
               "p": 0.14
             },
             {
-              "chain": "hair",
+              "chain": "fragrance",
+              "tier": 4,
+              "p": 0.08
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "charges": 18,
+          "drops": [
+            {
+              "chain": "skincare",
+              "tier": 2,
+              "p": 0.12
+            },
+            {
+              "chain": "skincare",
+              "tier": 3,
+              "p": 0.16
+            },
+            {
+              "chain": "skincare",
               "tier": 4,
               "p": 0.14
             },
             {
-              "chain": "hair",
+              "chain": "skincare",
               "tier": 5,
-              "p": 0.08
+              "p": 0.1
             },
             {
-              "chain": "hair",
-              "tier": 6,
-              "p": 0.08
+              "chain": "fragrance",
+              "tier": 2,
+              "p": 0.1
+            },
+            {
+              "chain": "fragrance",
+              "tier": 3,
+              "p": 0.14
+            },
+            {
+              "chain": "fragrance",
+              "tier": 4,
+              "p": 0.14
+            },
+            {
+              "chain": "fragrance",
+              "tier": 5,
+              "p": 0.1
             }
           ]
         }
@@ -791,6 +827,56 @@
           "id": "vanity",
           "level": 2,
           "copies": 2
+        },
+        {
+          "id": "brushbarrel",
+          "level": 1,
+          "copies": 2
+        }
+      ]
+    },
+    {
+      "minLevel": 5,
+      "gens": [
+        {
+          "id": "vanity",
+          "level": 2,
+          "copies": 2
+        },
+        {
+          "id": "brushbarrel",
+          "level": 1,
+          "copies": 2
+        },
+        {
+          "id": "dewcabi",
+          "level": 1,
+          "copies": 2
+        }
+      ]
+    },
+    {
+      "minLevel": 6,
+      "gens": [
+        {
+          "id": "vanity",
+          "level": 2,
+          "copies": 2
+        },
+        {
+          "id": "brushbarrel",
+          "level": 1,
+          "copies": 2
+        },
+        {
+          "id": "dewcabi",
+          "level": 1,
+          "copies": 2
+        },
+        {
+          "id": "studio",
+          "level": 1,
+          "copies": 2
         }
       ]
     },
@@ -806,11 +892,26 @@
           "id": "polishrack",
           "level": 1,
           "copies": 2
+        },
+        {
+          "id": "brushbarrel",
+          "level": 1,
+          "copies": 2
+        },
+        {
+          "id": "dewcabi",
+          "level": 1,
+          "copies": 2
+        },
+        {
+          "id": "studio",
+          "level": 1,
+          "copies": 2
         }
       ]
     },
     {
-      "minLevel": 11,
+      "minLevel": 10,
       "gens": [
         {
           "id": "vanity",
@@ -820,6 +921,21 @@
         {
           "id": "polishrack",
           "level": 2,
+          "copies": 2
+        },
+        {
+          "id": "brushbarrel",
+          "level": 2,
+          "copies": 2
+        },
+        {
+          "id": "dewcabi",
+          "level": 1,
+          "copies": 2
+        },
+        {
+          "id": "studio",
+          "level": 1,
           "copies": 2
         }
       ]
@@ -838,7 +954,17 @@
           "copies": 2
         },
         {
+          "id": "brushbarrel",
+          "level": 2,
+          "copies": 2
+        },
+        {
           "id": "studio",
+          "level": 2,
+          "copies": 2
+        },
+        {
+          "id": "dewcabi",
           "level": 1,
           "copies": 2
         }
@@ -858,13 +984,18 @@
           "copies": 2
         },
         {
+          "id": "brushbarrel",
+          "level": 2,
+          "copies": 2
+        },
+        {
           "id": "studio",
-          "level": 1,
+          "level": 2,
           "copies": 2
         },
         {
           "id": "dewcabi",
-          "level": 1,
+          "level": 2,
           "copies": 2
         }
       ]
@@ -880,6 +1011,11 @@
         {
           "id": "polishrack",
           "level": 3,
+          "copies": 2
+        },
+        {
+          "id": "brushbarrel",
+          "level": 2,
           "copies": 2
         },
         {
@@ -904,6 +1040,11 @@
         },
         {
           "id": "polishrack",
+          "level": 3,
+          "copies": 2
+        },
+        {
+          "id": "brushbarrel",
           "level": 3,
           "copies": 2
         },
@@ -933,6 +1074,11 @@
           "copies": 2
         },
         {
+          "id": "brushbarrel",
+          "level": 3,
+          "copies": 2
+        },
+        {
           "id": "studio",
           "level": 3,
           "copies": 2
@@ -958,6 +1104,11 @@
           "copies": 3
         },
         {
+          "id": "brushbarrel",
+          "level": 4,
+          "copies": 2
+        },
+        {
           "id": "studio",
           "level": 4,
           "copies": 2
@@ -979,6 +1130,11 @@
         },
         {
           "id": "polishrack",
+          "level": 4,
+          "copies": 3
+        },
+        {
+          "id": "brushbarrel",
           "level": 4,
           "copies": 3
         },

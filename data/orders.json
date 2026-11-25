@@ -79,6 +79,37 @@
             }
           ],
           "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "brushes",
+              "tier": 2
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "sponges",
+              "tier": 2
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "brushes",
+              "tier": 1
+            },
+            {
+              "chain": "sponges",
+              "tier": 1
+            }
+          ],
+          "boxChance": 0.06
         }
       ]
     },
@@ -147,6 +178,86 @@
             }
           ],
           "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "brushes",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "sponges",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "skincare",
+              "tier": 2
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "fragrance",
+              "tier": 2
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "lashes",
+              "tier": 2
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "skincare",
+              "tier": 2
+            },
+            {
+              "chain": "fragrance",
+              "tier": 1
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "brushes",
+              "tier": 2
+            },
+            {
+              "chain": "sponges",
+              "tier": 2
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "lashes",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.08
         }
       ]
     },
@@ -233,6 +344,90 @@
           "items": [
             {
               "chain": "eyes",
+              "tier": 2
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "brushes",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "sponges",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "lashes",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "skincare",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "fragrance",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "brushes",
+              "tier": 3
+            },
+            {
+              "chain": "sponges",
+              "tier": 2
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "lashes",
+              "tier": 2
+            },
+            {
+              "chain": "eyes",
+              "tier": 2
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "skincare",
+              "tier": 3
+            },
+            {
+              "chain": "fragrance",
               "tier": 2
             }
           ],
@@ -345,6 +540,59 @@
             }
           ],
           "boxChance": 0.12
+        },
+        {
+          "items": [
+            {
+              "chain": "brushes",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "sponges",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "lashes",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "lashes",
+              "tier": 3
+            },
+            {
+              "chain": "eyes",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "brushes",
+              "tier": 3
+            },
+            {
+              "chain": "skincare",
+              "tier": 3
+            }
+          ],
+          "boxChance": 0.06
         }
       ]
     },
@@ -462,6 +710,59 @@
             },
             {
               "chain": "eyes",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "brushes",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "sponges",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "lashes",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "lashes",
+              "tier": 4
+            },
+            {
+              "chain": "eyes",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.06
+        },
+        {
+          "items": [
+            {
+              "chain": "sponges",
+              "tier": 4
+            },
+            {
+              "chain": "brushes",
               "tier": 4
             }
           ],
@@ -609,6 +910,50 @@
             }
           ],
           "boxChance": 0.12
+        },
+        {
+          "items": [
+            {
+              "chain": "sponges",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "lashes",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "brushes",
+              "tier": 5
+            },
+            {
+              "chain": "sponges",
+              "tier": 4
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "lashes",
+              "tier": 5
+            },
+            {
+              "chain": "eyes",
+              "tier": 5
+            }
+          ],
+          "boxChance": 0.08
         }
       ]
     },
@@ -754,6 +1099,37 @@
             {
               "chain": "eyes",
               "tier": 6
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "sponges",
+              "tier": 6
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "lashes",
+              "tier": 6
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "brushes",
+              "tier": 5
+            },
+            {
+              "chain": "sponges",
+              "tier": 5
             }
           ],
           "boxChance": 0.08
@@ -926,6 +1302,37 @@
             }
           ],
           "boxChance": 0.16
+        },
+        {
+          "items": [
+            {
+              "chain": "sponges",
+              "tier": 6
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "lashes",
+              "tier": 6
+            }
+          ],
+          "boxChance": 0.08
+        },
+        {
+          "items": [
+            {
+              "chain": "lashes",
+              "tier": 5
+            },
+            {
+              "chain": "eyes",
+              "tier": 6
+            }
+          ],
+          "boxChance": 0.08
         }
       ]
     }
