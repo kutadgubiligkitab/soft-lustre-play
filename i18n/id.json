@@ -37,7 +37,8 @@
     "resting": "Kotak ini sedang mengisi energi.",
     "storageSoon": "Penyimpanan dibuka nanti.",
     "level": "Level {level}",
-    "locked": "Capai level bertanda untuk buka petak."
+    "locked": "Capai level bertanda untuk buka petak.",
+    "comingSoon": "Segera hadir"
   },
   "modal": {
     "sellTitle": "Jual ini?",
@@ -437,5 +438,11 @@
     "helpBody": "Dua barang yang sama digabung menjadi barang berikutnya. Kotak di awal adalah sumber potongan pertama. Ketuk i untuk melihat lebih banyak. «Tunjukkan» menunjukkannya di papan.",
     "notOnBoard": "Saat ini tidak ada di papan.",
     "unknown": "?"
+  },
+  "nav": {
+    "shop": "Toko",
+    "wardrobe": "Lemari",
+    "decor": "Dekor",
+    "gift": "Hadiah"
   }
 }

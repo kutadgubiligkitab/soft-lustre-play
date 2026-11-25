@@ -37,7 +37,8 @@
     "resting": "Dieses Etui lädt Energie auf.",
     "storageSoon": "Das Lager öffnet etwas später.",
     "level": "Level {level}",
-    "locked": "Auf dem Ziellevel werden Felder frei."
+    "locked": "Auf dem Ziellevel werden Felder frei.",
+    "comingSoon": "Demnächst"
   },
   "modal": {
     "sellTitle": "Verkaufen?",
@@ -437,5 +438,11 @@
     "helpBody": "Zwei gleiche Teile werden zum nächsten Gegenstand. Das Etui am Anfang ist die Quelle des ersten Stücks. Tippe auf i für mehr. „Zeigen“ markiert es auf dem Spielfeld.",
     "notOnBoard": "Gerade nicht auf dem Feld.",
     "unknown": "?"
+  },
+  "nav": {
+    "shop": "Shop",
+    "wardrobe": "Kleiderschrank",
+    "decor": "Dekor",
+    "gift": "Geschenk"
   }
 }

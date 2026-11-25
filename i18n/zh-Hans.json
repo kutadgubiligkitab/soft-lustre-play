@@ -37,7 +37,8 @@
     "resting": "这个盒子正在补充能量。",
     "storageSoon": "储物功能稍后开放。",
     "level": "等级 {level}",
-    "locked": "到达标记等级，解锁更多格子。"
+    "locked": "到达标记等级，解锁更多格子。",
+    "comingSoon": "即将推出"
   },
   "modal": {
     "sellTitle": "要卖掉吗？",
@@ -437,5 +438,11 @@
     "helpBody": "两个相同的物品可合成下一级。开头的盒子是第一件的来源。点 i 查看更多。「指给我看」会在棋盘上标出位置。",
     "notOnBoard": "现在棋盘上没有。",
     "unknown": "?"
+  },
+  "nav": {
+    "shop": "商店",
+    "wardrobe": "衣橱",
+    "decor": "装饰",
+    "gift": "礼物"
   }
 }

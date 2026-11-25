@@ -37,7 +37,8 @@
     "resting": "Bu kutu enerji yeniliyor.",
     "storageSoon": "Depo biraz sonra açılır.",
     "level": "Seviye {level}",
-    "locked": "İşaretli seviyede yeni kareler açılır."
+    "locked": "İşaretli seviyede yeni kareler açılır.",
+    "comingSoon": "Çok yakında"
   },
   "modal": {
     "sellTitle": "Satılsın mı?",
@@ -437,5 +438,11 @@
     "helpBody": "Aynı iki parça birleşerek bir sonraki eşyayı oluşturur. Baştaki kutu ilk parçanın kaynağıdır. Daha fazlası için i’ye dokunun. Göster, onu tahtada işaretler.",
     "notOnBoard": "Şu an tahtada yok.",
     "unknown": "?"
+  },
+  "nav": {
+    "shop": "Mağaza",
+    "wardrobe": "Gardrop",
+    "decor": "Dekor",
+    "gift": "Hediye"
   }
 }

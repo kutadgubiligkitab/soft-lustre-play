@@ -37,7 +37,8 @@
     "resting": "Este estojo está recarregando energia.",
     "storageSoon": "O baú abre um pouco mais tarde.",
     "level": "Nível {level}",
-    "locked": "No nível marcado, mais casas abrem."
+    "locked": "No nível marcado, mais casas abrem.",
+    "comingSoon": "Em breve"
   },
   "modal": {
     "sellTitle": "Vender isto?",
@@ -437,5 +438,11 @@
     "helpBody": "Dois iguais se juntam e formam o próximo item. O estojo no início é a origem da primeira peça. Toque em i para ver mais. «Mostrar» aponta no tabuleiro.",
     "notOnBoard": "Não está no tabuleiro agora.",
     "unknown": "?"
+  },
+  "nav": {
+    "shop": "Loja",
+    "wardrobe": "Guarda-roupa",
+    "decor": "Decoração",
+    "gift": "Presente"
   }
 }

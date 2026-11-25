@@ -1,0 +1,52 @@
+{
+  "pill": {
+    "left": 90,
+    "right": 90,
+    "top": 53,
+    "bottom": 53,
+    "w": 504,
+    "h": 188
+  },
+  "btnPrimary": {
+    "left": 89,
+    "right": 89,
+    "top": 52,
+    "bottom": 52,
+    "w": 453,
+    "h": 186
+  },
+  "btnSecondary": {
+    "left": 76,
+    "right": 76,
+    "top": 45,
+    "bottom": 45,
+    "w": 426,
+    "h": 159
+  },
+  "toast": {
+    "left": 60,
+    "right": 60,
+    "top": 35,
+    "bottom": 35,
+    "w": 459,
+    "h": 125
+  },
+  "panel": {
+    "left": 59,
+    "right": 59,
+    "top": 59,
+    "bottom": 59,
+    "w": 371,
+    "h": 512
+  },
+  "frame": {
+    "w": 1106,
+    "h": 1422,
+    "l": 124,
+    "t": 171,
+    "r": 125,
+    "b": 126,
+    "wellW": 857,
+    "wellH": 1125
+  }
+}

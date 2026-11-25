@@ -37,7 +37,8 @@
     "resting": "Este estuche está recargando energía.",
     "storageSoon": "El almacén abre un poco más tarde.",
     "level": "Nivel {level}",
-    "locked": "Alcanza el nivel marcado: más casillas."
+    "locked": "Alcanza el nivel marcado: más casillas.",
+    "comingSoon": "Próximamente"
   },
   "modal": {
     "sellTitle": "¿Vender?",
@@ -437,5 +438,11 @@
     "helpBody": "Dos iguales se unen y forman el siguiente objeto. El estuche del inicio es el origen de la primera pieza. Toca i para ver más. «Muéstrame» lo señala en el tablero.",
     "notOnBoard": "Ahora no está en el tablero.",
     "unknown": "?"
+  },
+  "nav": {
+    "shop": "Tienda",
+    "wardrobe": "Armario",
+    "decor": "Decoración",
+    "gift": "Regalo"
   }
 }

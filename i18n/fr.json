@@ -37,7 +37,8 @@
     "resting": "Cet écrin recharge son énergie.",
     "storageSoon": "Le coffre ouvre un peu plus tard.",
     "level": "Niveau {level}",
-    "locked": "Niveau marqué : plus de cases."
+    "locked": "Niveau marqué : plus de cases.",
+    "comingSoon": "Bientôt"
   },
   "modal": {
     "sellTitle": "Vendre ceci ?",
@@ -437,5 +438,11 @@
     "helpBody": "Deux identiques fusionnent pour former l’objet suivant. Le coffret du début est la source de la première pièce. Touchez i pour en savoir plus. « Montrer » l’indique sur le plateau.",
     "notOnBoard": "Pas sur le plateau pour l’instant.",
     "unknown": "?"
+  },
+  "nav": {
+    "shop": "Boutique",
+    "wardrobe": "Garde-robe",
+    "decor": "Décor",
+    "gift": "Cadeau"
   }
 }
