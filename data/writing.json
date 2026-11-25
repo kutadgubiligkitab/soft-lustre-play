@@ -1,0 +1,301 @@
+{
+  "title": "Soft Lustre",
+  "introShort": "Welcome to your salon. Let's make it glow again.",
+  "introCard": "The bell above the door still rings the same soft note. Rosa hands you the keys with a smile. Open the vanity case, combine your little treasures, and help each guest leave feeling a little more like themselves.",
+  "tutorial": {
+    "welcome": "Welcome to your salon. Let's make it glow again.",
+    "tapVanity": "Tap the vanity case to see what is inside.",
+    "mergeDrops": "Drag one lip drop onto the other to merge them.",
+    "mergeAgain": "Lovely. Merge two of those to make something new.",
+    "clientOrder": "Lena is waiting. Find what she asked for.",
+    "orderComplete": "Beautiful work. Lena is so happy.",
+    "energyLesson": "Energy comes back over time. Rest is part of the work.",
+    "goodbye": "Time for tea. Come back soon, the salon will wait."
+  },
+  "tips": {
+    "sell": "Not needed right now? Sell an item for a few coins.",
+    "locked": "Reach the marked level to unwrap more tiles."
+  },
+  "familyTags": {
+    "lipstick": "lips",
+    "nails": "nails",
+    "skincare": "skin",
+    "fragrance": "scent",
+    "hair": "hair",
+    "blush": "lips",
+    "eyes": "lashes",
+    "brushes": "tools",
+    "sponges": "skin",
+    "lashes": "lashes",
+    "towels": "skin",
+    "stones": "skin",
+    "oils": "skin",
+    "haircolor": "hair"
+  },
+  "clients": [
+    {
+      "id": "lena",
+      "name": "Lena",
+      "request": [
+        {
+          "text": "Could I try {item} today?"
+        },
+        {
+          "text": "I have a class later. {item}, please?"
+        },
+        {
+          "text": "Something new for me. Maybe {item}?"
+        },
+        {
+          "text": "I saw {item} in my sketchbook dreams."
+        },
+        {
+          "text": "A fresh color for spring, please.",
+          "tag": "lips"
+        },
+        {
+          "text": "My nails need a little fun today.",
+          "tag": "nails"
+        },
+        {
+          "text": "A little lift for my lashes today.",
+          "tag": "lashes"
+        }
+      ],
+      "thanks": [
+        "I love it. Thank you so much.",
+        "This is going straight into my sketchbook.",
+        "You always know what I like."
+      ]
+    },
+    {
+      "id": "amara",
+      "name": "Amara",
+      "request": [
+        {
+          "text": "My weekend treat. {item}, please."
+        },
+        {
+          "text": "I planned my whole week around {item}."
+        },
+        {
+          "text": "Just {item} today, nothing more. Thank you."
+        },
+        {
+          "text": "I trust you. Could you find {item}?"
+        },
+        {
+          "text": "A calm, clean glow for a big meeting.",
+          "tag": "skin"
+        },
+        {
+          "text": "Something soft for my curls, please.",
+          "tag": "hair"
+        },
+        {
+          "text": "Could I borrow a soft brush or sponge? Maybe {item}?",
+          "tag": "tools"
+        }
+      ],
+      "thanks": [
+        "Perfect. Exactly as I hoped.",
+        "You make my weekends feel special.",
+        "Thank you. I feel ready for anything."
+      ]
+    },
+    {
+      "id": "hiro",
+      "name": "Hiro",
+      "request": [
+        {
+          "text": "Good morning. Do you have {item}?"
+        },
+        {
+          "text": "A small favor today. {item}, please."
+        },
+        {
+          "text": "My hands work hard. {item} would help.",
+          "tag": "nails"
+        },
+        {
+          "text": "Something that smells like a garden.",
+          "tag": "scent"
+        },
+        {
+          "text": "Could I have {item} before the stall opens?"
+        },
+        {
+          "text": "My daughter said I should try {item}."
+        }
+      ],
+      "thanks": [
+        "Very nice. Thank you, my friend.",
+        "Fresh as my morning flowers.",
+        "I will tell everyone at the market."
+      ]
+    },
+    {
+      "id": "sofia",
+      "name": "Sofia",
+      "request": [
+        {
+          "text": "I have an evening out. {item}, darling?"
+        },
+        {
+          "text": "A little sparkle, please. Maybe {item}?"
+        },
+        {
+          "text": "Could you find {item} for me?"
+        },
+        {
+          "text": "Something graceful for the theater tonight."
+        },
+        {
+          "text": "A warm rose color, if you have it.",
+          "tag": "lips"
+        },
+        {
+          "text": "A soft scent, like an old waltz.",
+          "tag": "scent"
+        },
+        {
+          "text": "A little lift for my lashes today.",
+          "tag": "lashes"
+        }
+      ],
+      "thanks": [
+        "Wonderful. I feel like dancing.",
+        "You have such a gentle touch.",
+        "Thank you, darling. Simply lovely."
+      ]
+    },
+    {
+      "id": "priya",
+      "name": "Priya",
+      "request": [
+        {
+          "text": "Quick visit before the ovens. {item}, please?"
+        },
+        {
+          "text": "I brought pastries. Could I have {item}?"
+        },
+        {
+          "text": "A fresh glow for a busy day.",
+          "tag": "skin"
+        },
+        {
+          "text": "Is {item} ready? I am in a small hurry."
+        },
+        {
+          "text": "Something nice for my sister's party."
+        },
+        {
+          "text": "My hair needs a little shine today.",
+          "tag": "hair"
+        },
+        {
+          "text": "Could I borrow a soft brush or sponge? Maybe {item}?",
+          "tag": "tools"
+        }
+      ],
+      "thanks": [
+        "Thank you. Take a pastry, please.",
+        "Fast and beautiful. Just what I needed.",
+        "Now I can face the morning rush."
+      ]
+    },
+    {
+      "id": "noor",
+      "name": "Noor",
+      "request": [
+        {
+          "text": "Hello. Could I have {item}, please?"
+        },
+        {
+          "text": "Something gentle today. Maybe {item}?"
+        },
+        {
+          "text": "A soft scent for my concert.",
+          "tag": "scent"
+        },
+        {
+          "text": "My skin feels tired. {item} would help.",
+          "tag": "skin"
+        },
+        {
+          "text": "I would love {item} if you have it."
+        },
+        {
+          "text": "Something calm before practice, please."
+        }
+      ],
+      "thanks": [
+        "Thank you. It feels like a quiet song.",
+        "So gentle. I really love it.",
+        "I will play something happy today."
+      ]
+    },
+    {
+      "id": "mateo",
+      "name": "Mateo",
+      "request": [
+        {
+          "text": "Hi there. How is your day? {item}, please."
+        },
+        {
+          "text": "Parent meetings tonight. Could I have {item}?"
+        },
+        {
+          "text": "Something to keep my beard tidy.",
+          "tag": "hair"
+        },
+        {
+          "text": "A fresh, clean scent for the classroom.",
+          "tag": "scent"
+        },
+        {
+          "text": "Do you have {item} for me today?"
+        },
+        {
+          "text": "The kids say I need {item}."
+        }
+      ],
+      "thanks": [
+        "Great job. Thank you so much.",
+        "Ready for a room full of questions.",
+        "You made my whole day better."
+      ]
+    },
+    {
+      "id": "grace",
+      "name": "Grace",
+      "request": [
+        {
+          "text": "Hello, dear. Do you have {item}?"
+        },
+        {
+          "text": "Choir practice tonight. {item}, please."
+        },
+        {
+          "text": "A little something to celebrate today."
+        },
+        {
+          "text": "Could you find {item} for this old friend?"
+        },
+        {
+          "text": "A lovely color to match my scarf.",
+          "tag": "lips"
+        },
+        {
+          "text": "My nails want to look their best.",
+          "tag": "nails"
+        }
+      ],
+      "thanks": [
+        "Bless you, dear. It is perfect.",
+        "I will sing extra well tonight.",
+        "Thank you. You light up this street."
+      ]
+    }
+  ]
+}
