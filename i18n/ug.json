@@ -6,7 +6,7 @@
   "hud": {
     "levelAbbr": "دەر",
     "energyFull": "تولۇق",
-    "energyEta": "{time} دا +1",
+    "energyEta": "+1  {time}",
     "energyFullIn": "{time} دا تولىدۇ",
     "energyIsFull": "ئېنېرگىيە تولۇق.",
     "newGame": "يېڭى"
