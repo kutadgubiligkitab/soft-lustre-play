@@ -22,7 +22,7 @@
   },
   "info": {
     "idle": "Tippe auf ein Beautycase oder Item.",
-    "resting": "Pausiert",
+    "resting": "Energie wird aufgeladen",
     "tierNext": "Lv. {tier}  →  {next}",
     "tierMax": "Lv. {tier}  ·  Höchststufe",
     "maxTier": "Höchststufe",
@@ -34,7 +34,7 @@
   },
   "toast": {
     "boardFull": "Das Brett ist voll. Fusioniere oder verkaufe.",
-    "resting": "Dieses Case ruht gerade.",
+    "resting": "Dieses Etui lädt Energie auf.",
     "storageSoon": "Das Lager öffnet etwas später.",
     "level": "Level {level}",
     "locked": "Auf dem Ziellevel werden Felder frei."

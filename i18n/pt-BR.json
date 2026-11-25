@@ -22,7 +22,7 @@
   },
   "info": {
     "idle": "Toque numa necessaire ou num item.",
-    "resting": "Descansando",
+    "resting": "Recarregando energia",
     "tierNext": "Nv. {tier}  →  {next}",
     "tierMax": "Nv. {tier}  ·  Nível máx.",
     "maxTier": "Nível máx.",
@@ -34,7 +34,7 @@
   },
   "toast": {
     "boardFull": "Tabuleiro cheio. Una ou venda para abrir espaço.",
-    "resting": "Esta necessaire descansa.",
+    "resting": "Este estojo está recarregando energia.",
     "storageSoon": "O baú abre um pouco mais tarde.",
     "level": "Nível {level}",
     "locked": "No nível marcado, mais casas abrem."

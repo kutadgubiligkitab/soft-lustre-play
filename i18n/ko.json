@@ -22,7 +22,7 @@
   },
   "info": {
     "idle": "파우치나 아이템을 눌러 보세요.",
-    "resting": "쉬는 중",
+    "resting": "에너지 충전 중",
     "tierNext": "Lv. {tier}  →  {next}",
     "tierMax": "Lv. {tier}  ·  최고 단계",
     "maxTier": "최고 단계",
@@ -34,7 +34,7 @@
   },
   "toast": {
     "boardFull": "보드가 가득 찼어요. 합치거나 팔아 자리를 만드세요.",
-    "resting": "이 파우치는 쉬는 중이에요.",
+    "resting": "이 상자가 에너지를 충전하는 중이에요.",
     "storageSoon": "보관함은 조금 뒤에 열려요.",
     "level": "레벨 {level}",
     "locked": "표시된 레벨이 되면 칸이 열려요."

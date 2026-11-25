@@ -22,7 +22,7 @@
   },
   "info": {
     "idle": "点一下化妆包或物品。",
-    "resting": "休息中",
+    "resting": "能量补充中",
     "tierNext": "Lv. {tier}  →  {next}",
     "tierMax": "Lv. {tier}  ·  已满级",
     "maxTier": "已满级",
@@ -34,7 +34,7 @@
   },
   "toast": {
     "boardFull": "棋盘满了。合成或出售来腾位置。",
-    "resting": "这个包正在休息。",
+    "resting": "这个盒子正在补充能量。",
     "storageSoon": "储物功能稍后开放。",
     "level": "等级 {level}",
     "locked": "到达标记等级，解锁更多格子。"

@@ -22,7 +22,7 @@
   },
   "info": {
     "idle": "Bir makyaj çantasına ya da eşyaya dokun.",
-    "resting": "Dinleniyor",
+    "resting": "Enerji yenileniyor",
     "tierNext": "Sv. {tier}  →  {next}",
     "tierMax": "Sv. {tier}  ·  En üst",
     "maxTier": "En üst seviye",
@@ -34,7 +34,7 @@
   },
   "toast": {
     "boardFull": "Tahta dolu. Yer açmak için birleştir ya da sat.",
-    "resting": "Bu çanta dinleniyor.",
+    "resting": "Bu kutu enerji yeniliyor.",
     "storageSoon": "Depo biraz sonra açılır.",
     "level": "Seviye {level}",
     "locked": "İşaretli seviyede yeni kareler açılır."

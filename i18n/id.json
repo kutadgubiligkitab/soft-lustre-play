@@ -22,7 +22,7 @@
   },
   "info": {
     "idle": "Ketuk tas rias atau sebuah item.",
-    "resting": "Istirahat",
+    "resting": "Energi sedang diisi",
     "tierNext": "Lv. {tier}  →  {next}",
     "tierMax": "Lv. {tier}  ·  Tingkat maks",
     "maxTier": "Tingkat maks",
@@ -34,7 +34,7 @@
   },
   "toast": {
     "boardFull": "Papan penuh. Gabungkan atau jual dulu.",
-    "resting": "Tas ini sedang istirahat.",
+    "resting": "Kotak ini sedang mengisi energi.",
     "storageSoon": "Penyimpanan dibuka nanti.",
     "level": "Level {level}",
     "locked": "Capai level bertanda untuk buka petak."

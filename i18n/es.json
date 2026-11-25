@@ -22,7 +22,7 @@
   },
   "info": {
     "idle": "Toca un neceser o un objeto.",
-    "resting": "Descansa",
+    "resting": "Recargando energía",
     "tierNext": "Nv. {tier}  →  {next}",
     "tierMax": "Nv. {tier}  ·  Nivel máx.",
     "maxTier": "Nivel máx.",
@@ -34,7 +34,7 @@
   },
   "toast": {
     "boardFull": "Tablero lleno. Une o vende para hacer sitio.",
-    "resting": "Este neceser descansa.",
+    "resting": "Este estuche está recargando energía.",
     "storageSoon": "El almacén abre un poco más tarde.",
     "level": "Nivel {level}",
     "locked": "Alcanza el nivel marcado: más casillas."

@@ -22,7 +22,7 @@
   },
   "info": {
     "idle": "Touche une trousse ou un objet.",
-    "resting": "Au repos",
+    "resting": "Énergie en recharge",
     "tierNext": "Niv. {tier}  →  {next}",
     "tierMax": "Niv. {tier}  ·  Niveau max",
     "maxTier": "Niveau max",
@@ -34,7 +34,7 @@
   },
   "toast": {
     "boardFull": "Plateau plein. Fusionne ou vends pour faire de la place.",
-    "resting": "Cette trousse se repose.",
+    "resting": "Cet écrin recharge son énergie.",
     "storageSoon": "Le coffre ouvre un peu plus tard.",
     "level": "Niveau {level}",
     "locked": "Niveau marqué : plus de cases."

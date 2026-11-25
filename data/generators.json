@@ -1,6 +1,7 @@
 {
   "charges": 15,
-  "cooldownMinutes": 12,
+  "cooldownMinutes": 2,
+  "cooldownNote": "Playtest value: 2 minutes (120s), 2026-11-25. Long-term design in docs/balance/generators.json remains 12 minutes.",
   "tapEnergy": 1,
   "gemSkipCost": [
     0,
